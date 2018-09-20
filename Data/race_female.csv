@@ -1,0 +1,1106 @@
+,Place,Numeber,Name,Age,Hometown,Gun_Time,Pace,Net_Time,Div,Total_Racers,Net_Time1
+0,1,30,Florence Jepkosgei,22.0,Kenya .,32:59:00,5:19,32:58,1,86,32:58
+1,2,8,Eunice Chepkirui,21.0,Kenya .,33:14:00,5:21,33:13,2,86,33:13
+2,3,3200,Elena Orlova,36.0,Gaithersburg MD,34:26:00,5:33,34:25,1,247,34:25
+3,4,2,Susannah Kvasnicka,34.0,Great Falls VA,34:43:00,5:35,34:42,1,173,34:42
+4,5,6,Casey Smith,26.0,Arlington VA,35:04:00,5:39,35:02,1,142,35:02
+5,6,28,Lyubov Kremleva,45.0,Russia .,35:05:00,5:39,35:04,1,110,35:04
+6,7,3040,Mary Jo Saunders,31.0,Harrisonburg VA,36:27:00,5:52,36:25,2,173,36:25
+7,8,26,Erin Swain,24.0,Clifton VA,36:51:00,5:56,36:49,3,86,36:49
+8,9,740,Cheryl Carr,23.0,Arlington VA,37:38:00,6:03,37:35,4,86,37:35
+9,10,2062,Anya Oleynik,17.0,Gaithersburg MD,38:00:00,6:07,37:59,1,26,37:59
+10,11,2674,Christy Underdonk,37.0,Potomac MD,38:18:00,6:10,38:15,2,247,38:15
+11,12,1816,Erica Marrari,24.0,College Park MD,38:53:00,6:15,38:48,5,86,38:48
+12,13,12,Eileen Kickish,26.0,Washington DC,38:59:00,6:16,38:56,2,142,38:56
+13,14,1060,Kristen Ettensohn,23.0,Bethesda MD,39:22:00,6:20,39:19,6,86,39:19
+14,15,834,Cindy Conant,45.0,Kensington MD,39:36:00,6:22,39:34,2,110,39:34
+15,16,3266,Amanda Robotti,18.0,College Park MD,39:39:00,6:23,39:34,2,26,39:34
+16,17,2013,Laura Nelson,40.0,Woodstock VA,39:48:00,6:24,39:45,1,173,39:45
+17,18,790,Connie Chow Dowler,31.0,Kensington MD,39:56:00,6:25,39:51,3,173,39:51
+18,19,1596,Sheryl Kline,43.0,Arnold MD,40:08:00,6:27,40:05,2,173,40:05
+19,20,2127,Paula Pels,38.0,Bethesda MD,40:29:00,6:31,40:24,3,247,40:24
+20,21,1441,Jane Inglese,36.0,Bethesda MD,40:31:00,6:31,40:28,4,247,40:28
+21,22,413,Aisling Gardner,19.0,College Park MD,40:43:00,6:33,40:39,3,26,40:39
+22,23,2581,Alison Suckling,50.0,Arnold MD,40:44:00,6:33,40:42,1,76,40:42
+23,24,2940,Liliana Baron,47.0,Potomac MD,40:46:00,6:34,40:43,3,110,40:43
+24,25,1736,Caroline Little,25.0,Washington DC,40:50:00,6:34,40:44,3,142,40:44
+25,26,14,Helen Beven,40.0,Kensington MD,41:10:00,6:38,41:09,3,173,41:09
+26,27,3228,Michele Levy,18.0,Gaithersburg MD,41:33:00,6:41,41:31,4,26,41:31
+27,28,1039,Nicola Elliott,40.0,Vienna VA,41:37:00,6:42,41:33,4,173,41:33
+28,29,2037,Elisa Norris,30.0,Rockville MD,41:55:00,6:44,41:50,4,173,41:50
+29,30,163,Stephanie Hammond,38.0,Springfield VA,42:00:00,6:45,41:56,5,247,41:56
+30,31,2153,Emily Pierce,30.0,Silver Spring M,D   42:03,6:45,41:56,5,173,41:56
+31,32,481,Alida Anderson,36.0,Bethesda MD,43:07:00,6:47,42:04,6,247,42:04
+32,33,1764,Jeannette Lussi,43.0,Kensington MD,43:15:00,6:48,42:13,5,173,42:13
+33,34,1852,Marycolle Mcallister,22.0,Silver Spring M,D   43:24,6:49,42:19,7,86,42:19
+34,35,676,Christine Brophy,41.0,Mongtomery Vill,43:34:00,6:51,42:33,6,173,42:33
+35,36,618,Erin Bliss,17.0,Woodbridge VA,42:48:00,6:53,42:43,5,26,42:43
+36,37,2010,Megan Nechanicky,24.0,Montgomery Vill,42:54:00,6:54,42:48,8,86,42:48
+37,38,1561,Christina Kichula,35.0,Silver Spring M,D   44:00,6:55,42:58,7,247,42:58
+38,39,3335,Kim Chenen,36.0,Leesburg VA,43:10:00,6:56,43:05,8,247,43:05
+39,40,2498,Cheryl Smoker,31.0,Rockville MD,44:39:00,7:01,43:32,6,173,43:32
+40,41,2578,Amy Subar,50.0,Potomac MD,44:47:00,7:02,43:38,2,76,43:38
+41,42,1875,Michele Mcgleish,40.0,Germantown MD,44:59:00,7:02,43:39,7,173,43:39
+42,43,571,Michelle Beard,36.0,Montgomery Vill,44:46:00,7:02,43:39,9,247,43:39
+43,44,555,Sarah Barpoulis,41.0,Potomac MD,44:48:00,7:02,43:42,8,173,43:42
+44,45,2577,Sarah Stup,25.0,Rockville MD,44:48:00,7:03,43:46,4,142,43:46
+45,46,2727,Paige Waterman,38.0,Silver Spring M,D   45:01,7:04,43:51,10,247,43:51
+46,47,113,Beverly Black,45.0,Frederick MD,43:55:00,7:04,43:52,4,110,43:52
+47,48,2625,Kimberley Thomas,31.0,Rockville MD,45:08:00,7:06,44:06,7,173,44:06
+48,49,407,Clairice Ahn,19.0,College Park MD,45:28:00,7:08,44:16,6,26,44:16
+49,50,2663,Elizabeth Tullberg,24.0,Bethesda MD,47:22:00,7:08,44:19,9,86,44:19
+50,51,1822,Lisa Martin,36.0,Brookeville MD,44:24:00,7:08,44:20,11,247,44:20
+51,52,42,Susan Pereles,42.0,Potomac MD,44:29:00,7:09,44:24,9,173,44:24
+52,53,1997,Andrea Myers,37.0,Bethesda MD,45:33:00,7:09,44:24,12,247,44:24
+53,54,180,Katherine Lee,28.0,Bethesda MD,45:50:00,7:12,44:44,5,142,44:44
+54,55,642,Angelique Bosse,38.0,Rockville MD,44:51:00,7:13,44:47,13,247,44:47
+55,56,2993,Laura Gurney,41.0,Bethesda MD,45:52:00,7:13,44:49,10,173,44:49
+56,57,1180,Paula Galliani,46.0,Gaithersbur MD,44:54:00,7:13,44:51,5,110,44:51
+57,58,818,Cindy Cohen,38.0,Washington DC,45:55:00,7:14,44:53,14,247,44:53
+58,59,1655,Krisztina Larson,19.0,Silver Spring M,D   46:03,7:15,44:59,7,26,44:59
+59,60,138,Patricia Darrah,33.0,Washington DC,46:22:00,7:16,45:04,8,173,45:04
+60,61,1234,Laura Gittleson,29.0,Rockville MD,46:20:00,7:16,45:09,6,142,45:09
+61,62,152,Alice Franks,57.0,Rockville MD,45:16:00,7:17,45:11,1,28,45:11
+62,63,1979,Kristina Muldoon,35.0,Bethesda MD,48:16:00,7:17,45:12,15,247,45:12
+63,64,973,Linh-Yen Do,19.0,Gaithersburg MD,45:19:00,7:17,45:13,8,26,45:13
+64,65,3033,Sarah Ramsey,24.0,Arlington VA,46:33:00,7:19,45:25,10,86,45:25
+65,66,2039,Rebecca Novinsky,22.0,Ellcott City MD,46:54:00,7:20,45:32,11,86,45:32
+66,67,3341,Joy Langford,36.0,Bethesda MD,46:36:00,7:20,45:32,16,247,45:32
+67,68,16,Sarah Buckheit,45.0,Reson VA,45:39:00,7:21,45:37,6,110,45:37
+68,69,2505,Anna Soevik,40.0,Bethesda MD,47:08:00,7:21,45:41,11,173,45:41
+69,70,1106,Kate Finn,24.0,Bethesda MD,46:46:00,7:22,45:44,12,86,45:44
+70,71,1360,Jessica Heinze,29.0,North Bethesda,M   47:04,7:22,45:47,7,142,45:47
+71,72,474,Leslie Anchor,43.0,Rockville MD,47:00:00,7:23,45:48,12,173,45:48
+72,73,659,Melissa Brault,39.0,Brookeville MD,47:21:00,7:24,45:58,17,247,45:58
+73,74,3323,Deborah Arnold,42.0,Bethesda MD,47:15:00,7:25,46:01,13,173,46:01
+74,75,1704,Robin Lerner,43.0,Bethesda MD,47:16:00,7:25,46:01,14,173,46:01
+75,76,1966,Leilani Morton,31.0,Fairfax VA,47:06:00,7:25,46:01,9,173,46:01
+76,77,1616,Stephanie Kramer,37.0,New Market MD,47:11:00,7:25,46:02,18,247,46:02
+77,78,2074,Meshelle Osborne,32.0,Chicago IL,47:30:00,7:25,46:04,10,173,46:04
+78,79,1883,Megan Mckenzie,30.0,Rockville MD,47:09:00,7:26,46:06,11,173,46:06
+79,80,864,Chris Craun,60.0,Bethesda MD,49:12:00,7:26,46:07,1,19,46:07
+80,81,1798,Janis Maloney,48.0,Silver Spring M,D   46:14,7:26,46:10,7,110,46:10
+81,82,1300,Rebecca Guzman,22.0,Ijamsville MD,47:17:00,7:26,46:11,13,86,46:11
+82,83,1049,Carol English,51.0,Germantown MD,47:30:00,7:27,46:12,3,76,46:12
+83,84,2591,Tansy Szeliga,28.0,Gaithersburg MD,47:49:00,7:28,46:20,8,142,46:20
+84,85,904,Amy Davis,25.0,Ellicott City M,D   47:41,7:28,46:22,9,142,46:22
+85,86,128,Janet Choi,36.0,Oakton VA,47:27:00,7:28,46:22,19,247,46:22
+86,87,979,Connie Dodmead,28.0,Rockville MD,47:49:00,7:28,46:22,10,142,46:22
+87,88,1762,Janice Lunenfeld,36.0,Rockville MD,47:36:00,7:28,46:24,20,247,46:24
+88,89,524,Debbie Austin,41.0,Kensington MD,50:19:00,7:29,46:28,15,173,46:28
+89,90,215,Karen Strykul,36.0,Arlington VA,47:38:00,7:29,46:29,21,247,46:29
+90,91,1774,Melissa Macdermid,28.0,High Point NC,47:43:00,7:29,46:30,11,142,46:30
+91,92,2994,Heather Chen-Mayer,44.0,Garret Park MD,47:46:00,7:30,46:31,16,173,46:31
+92,93,2685,Andrea Varea,36.0,Bethesda MD,47:36:00,7:30,46:31,22,247,46:31
+93,94,2802,Amy Wolverton,35.0,Washington DC,47:38:00,7:30,46:31,23,247,46:31
+94,95,1634,Ann Kurzweil,47.0,Great Falls VA,48:01:00,7:30,46:31,8,110,46:31
+95,96,1352,Whitney Hayre,19.0,Olney MD,51:34:00,7:30,46:34,9,26,46:34
+96,97,1967,Valerie Moser,39.0,Baltimore MD,47:40:00,7:30,46:36,24,247,46:36
+97,98,490,Sherry Ansher,49.0,Bethesda MD,47:42:00,7:30,46:36,9,110,46:36
+98,99,2038,Liz Notter,39.0,Gaithersburg MD,47:50:00,7:31,46:43,25,247,46:43
+99,100,646,Jenny Boyd,28.0,Germantown MD,48:11:00,7:32,46:45,12,142,46:45
+100,101,3304,Jennifer Lowndes,38.0,Bethesda MD,48:11:00,7:32,46:46,26,247,46:46
+101,102,2163,Katie Piringer,23.0,Chevy Chase MD,49:55:00,7:32,46:47,14,86,46:47
+102,103,1727,Katherine Limon,32.0,Washington DC,49:53:00,7:32,46:47,12,173,46:47
+103,104,2856,Lynn Zipf,41.0,Silver Spring M,D   47:58,7:32,46:48,17,173,46:48
+104,105,2032,Shelley Niwa,53.0,Derwood MD,46:55:00,7:33,46:50,4,76,46:50
+105,106,2528,Susan Spicer,43.0,Rockville MD,48:10:00,7:33,46:50,18,173,46:50
+106,107,2540,Tracy Stake,37.0,Olney MD,48:11:00,7:33,46:52,27,247,46:52
+107,108,1920,Lindsay Metcalfe,23.0,Arlington VA,48:02:00,7:33,46:54,15,86,46:54
+108,109,1647,Carolyn Langille,36.0,Mt. Airy MD,48:03:00,7:33,46:54,28,247,46:54
+109,110,2958,Wendy Ponvert,44.0,Bethesda MD,48:00:00,7:34,46:56,19,173,46:56
+110,111,507,Jordana Ashe,38.0,Rockville MD,48:15:00,7:34,46:57,29,247,46:57
+111,112,2629,Elizabeth Thompson,36.0,Laurel MD,48:17:00,7:34,46:59,30,247,46:59
+112,113,1035,Beju Ekperigin,30.0,Montgomery Vill,50:06:00,7:35,47:04,13,173,47:04
+113,114,3232,Leena Clarke,48.0,Rockville MD,50:10:00,7:36,47:08,10,110,47:08
+114,115,2075,Anne Ostrenga,48.0,Derwood MD,48:38:00,7:37,47:19,11,110,47:19
+115,116,1576,B. J. King,61.0,Crofton MD,47:25:00,7:38,47:21,2,19,47:21
+116,117,2168,Joy Pochatila,31.0,Alexandria VA,48:53:00,7:38,47:22,14,173,47:22
+117,118,1031,Helen Egelhoff,23.0,Montgomery Vill,47:27:00,7:38,47:24,16,86,47:24
+118,119,3334,Melissa Belman,42.0,Annapolis MD,47:33:00,7:38,47:26,20,173,47:26
+119,120,1804,Wendy Manning,33.0,Silver Spring M,D   50:34,7:39,47:28,15,173,47:28
+120,121,875,Fran Cueto,47.0,Gaithersburg MD,50:31:00,7:39,47:29,12,110,47:29
+121,122,1471,Natalie Jenkins,46.0,Gaithersburg MD,48:38:00,7:39,47:33,13,110,47:33
+122,123,1285,Amy Greene,31.0,Rockville MD,50:37:00,7:40,47:34,16,173,47:34
+123,124,420,Lisa Hoffman,32.0,Rockville MD,51:07:00,7:40,47:35,17,173,47:35
+124,125,617,Cathy Blessing,34.0,Sterling VA,49:04:00,7:41,47:39,18,173,47:39
+125,126,1948,Kirsten Molloy,45.0,Rockville MD,49:08:00,7:41,47:40,14,110,47:40
+126,127,2861,Joanna Zuercher,25.0,Washington DC,50:41:00,7:41,47:41,13,142,47:41
+127,128,3336,Annemarie Kirlin,38.0,Bethesda MD,48:57:00,7:41,47:45,31,247,47:45
+128,129,819,Stephanie Cohen,40.0,Darnestown MD,48:54:00,7:42,47:47,21,173,47:47
+129,130,1751,Sara Loschiavo,30.0,Silver Spring M,D   47:57,7:42,47:49,19,173,47:49
+130,131,664,Jola Breegle,25.0,Arlington VA,49:00:00,7:42,47:50,14,142,47:50
+131,132,3312,Meredith Bonta,60.0,Crofton MD,48:08:00,7:45,48:04,3,19,48:04
+132,133,964,Tsippora Dingott,45.0,Potomac MD,49:19:00,7:45,48:05,15,110,48:05
+133,134,3224,Diane Bartley,26.0,Arlington VA,49:13:00,7:45,48:05,15,142,48:05
+134,135,1482,Jill Johnson,40.0,Arlington VA,51:06:00,7:45,48:05,22,173,48:05
+135,136,1307,Eileen Haase,45.0,Rockville MD,49:10:00,7:45,48:06,16,110,48:06
+136,137,2610,Nydia Taylor,30.0,Keedysville MD,49:23:00,7:45,48:06,20,173,48:06
+137,138,2690,Michele Ver Ploeg,36.0,Arlington VA,51:14:00,7:45,48:06,32,247,48:06
+138,139,2393,Jennifer Schwartz,34.0,Rockville MD,51:29:00,7:45,48:06,21,173,48:06
+139,140,731,Sharon Carlstrom,35.0,Kensington MD,51:30:00,7:45,48:06,33,247,48:06
+140,141,1100,Linda Fertal,43.0,Oakton VA,49:23:00,7:46,48:15,23,173,48:15
+141,142,974,Anh-Chi Do,15.0,Gaithersburg MD,48:19:00,7:47,48:17,10,26,48:17
+142,143,3202,Jen Norris,35.0,Arlington VA,49:46:00,7:48,48:23,34,247,48:23
+143,144,2347,Mojdeh Saba,24.0,Baltimore MD,51:34:00,7:48,48:25,17,86,48:25
+144,145,1784,Lisa Magdaleno,27.0,Kensington MD,51:46:00,7:48,48:26,16,142,48:26
+145,146,1793,Cecilia Mak,26.0,Silver Spring M,D   49:52,7:49,48:31,17,142,48:31
+146,147,1944,Holly Moden,25.0,Clarksburg MD,49:38:00,7:49,48:31,18,142,48:31
+147,148,3247,Sara Warleck,30.0,Kensington MD,50:04:00,7:49,48:34,22,173,48:34
+148,149,1857,Marci Mccalley,35.0,Gaithersburg MD,50:04:00,7:49,48:34,35,247,48:34
+149,150,2609,Julia Taylor,34.0,Arlington VA,49:51:00,7:49,48:34,23,173,48:34
+150,151,198,Michelle Powell,43.0,Rockville MD,50:07:00,7:50,48:39,24,173,48:39
+151,152,1811,Malinda Marcus,40.0,Germantown MD,49:57:00,7:51,48:45,25,173,48:45
+152,153,2014,Dee Nelson,62.0,Gaithersburg MD,48:49:00,7:51,48:45,4,19,48:45
+153,154,2543,Sarah Stanley,26.0,Gaithersburg MD,51:45:00,7:51,48:45,19,142,48:45
+154,155,1497,Kim Joseph,37.0,Bethesda MD,49:55:00,7:51,48:47,36,247,48:47
+155,156,2088,Margie Paguyo,35.0,Olney MD,49:57:00,7:52,48:49,37,247,48:49
+156,157,2222,Barbara Raimondo,46.0,Washington Grov,52:39:00,7:52,48:53,17,110,48:53
+157,158,2147,Kathleen Phelan,25.0,North Potomac M,D   50:16,7:53,48:54,20,142,48:54
+158,159,1513,Jill Kane,35.0,Rockville MD,50:23:00,7:53,48:56,38,247,48:56
+159,160,527,Nancy Avitabile,58.0,Bethesda MD,50:16:00,7:53,48:56,2,28,48:56
+160,161,3305,Amy Mason,29.0,Chevy Chase MD,50:05:00,7:53,48:57,21,142,48:57
+161,162,1927,Melinda Miller,36.0,Chevy Chase MD,52:20:00,7:53,48:58,39,247,48:58
+162,163,462,Nancy Alexaner,49.0,Kensington MD,50:14:00,7:54,49:04,18,110,49:04
+163,164,1574,Natalie King,28.0,Gaithersburg MD,50:22:00,7:54,49:05,22,142,49:05
+164,165,3344,Hillary Crehan,26.0,Arlington VA,53:04:00,7:55,49:06,23,142,49:06
+165,166,1186,Gallya Gannot,41.0,Rockville MD,52:12:00,7:55,49:07,26,173,49:07
+166,167,621,Beth Bobb,34.0,Rockville MD,50:36:00,7:55,49:08,24,173,49:08
+167,168,708,Teresa Byrnes,39.0,Gaithersburg MD,50:30:00,7:55,49:09,40,247,49:09
+168,169,3331,Kelly Gagliardo,24.0,Gaithersburg MD,52:16:00,7:55,49:12,18,86,49:12
+169,170,2475,Jennifer Sleeman,33.0,Clarksville MD,50:43:00,7:56,49:15,25,173,49:15
+170,171,1526,Jacquelin Kascic,31.0,Frederick MD,52:45:00,7:56,49:15,26,173,49:15
+171,172,2844,Meredith Zanni,31.0,Rockville MD,50:43:00,7:56,49:16,27,173,49:16
+172,173,2375,Katherine Schexneider,44.0,Germantown MD,52:25:00,7:56,49:16,27,173,49:16
+173,174,1326,Karen Hannegrefs,29.0,Rockville MD,50:43:00,7:56,49:17,24,142,49:17
+174,175,3329,Perri Miller,15.0,Potomac MD,50:41:00,7:56,49:17,11,26,49:17
+175,176,772,Jessica Chapman,43.0,Bethesda MD,52:18:00,7:56,49:17,28,173,49:17
+176,177,522,Mindy Aungst,26.0,Fairfax VA,50:37:00,7:57,49:19,25,142,49:19
+177,178,2077,Ellen Ottenstein,48.0,Potomac MD,50:40:00,7:57,49:21,19,110,49:21
+178,179,2497,Donna Smojice,29.0,Germantown MD,50:42:00,7:57,49:21,26,142,49:21
+179,180,1711,Cheska Levy,33.0,Bethesda MD,50:44:00,7:57,49:22,28,173,49:22
+180,181,22,Priscila Prunella,62.0,Rockville MD,49:29:00,7:57,49:24,5,19,49:24
+181,182,1779,Jodi Macklin,42.0,Chevy Chase MD,50:55:00,7:58,49:28,29,173,49:28
+182,183,609,Carrie Blain,33.0,Rockville MD,50:49:00,7:58,49:29,29,173,49:29
+183,184,167,Kimberly Hurney,23.0,Laytonsville MD,52:34:00,7:58,49:30,19,86,49:30
+184,185,3326,Christine Davison,46.0,Cabin John MD,50:51:00,7:58,49:30,20,110,49:30
+185,186,1667,Julie Lawson,27.0,Washington DC,52:39:00,7:59,49:33,27,142,49:33
+186,187,103,Jean Arthur,43.0,Silver Spring M,D   50:38,7:59,49:36,30,173,49:36
+187,188,1675,Jeanna Leclaire,19.0,Waldorf MD,53:16:00,8:00,49:39,12,26,49:39
+188,189,3243,Susie Schofield,43.0,Rockville MD,52:50:00,8:01,49:44,31,173,49:44
+189,190,542,Wendy Bailey,37.0,Bethesda MD,51:19:00,8:01,49:48,41,247,49:48
+190,191,2076,Amy Ostrow,26.0,Gaithersburg MD,53:01:00,8:02,49:50,28,142,49:50
+191,192,2004,Melissa Nash,32.0,Olney MD,51:23:00,8:02,49:55,30,173,49:55
+192,193,1442,Hetty Irmer,32.0,Takoma Park MD,53:00:00,8:02,49:55,31,173,49:55
+193,194,1458,Joanne Jacobson,44.0,Potomac MD,51:04:00,8:03,49:57,32,173,49:57
+194,195,1170,Robin Funkhouser,26.0,Gaithersburg MD,51:23:00,8:03,49:58,29,142,49:58
+195,196,1399,Maddy Horan,14.0,Gaithersburg MD,51:16:00,8:03,49:59,1,15,49:59
+196,197,1185,Gail Gannon,41.0,Montgomery Vill,53:21:00,8:03,50:00,33,173,50:00
+197,198,1971,Lisa Moss,38.0,Rockville MD,51:37:00,8:04,50:07,42,247,50:07
+198,199,439,Anne Ackerman,39.0,Rockville MD,51:37:00,8:04,50:08,43,247,50:08
+199,200,626,Danielle Boggio,38.0,Millersville MD,51:29:00,8:06,50:15,44,247,50:15
+200,201,475,Melissa Andersen,43.0,Kensington MD,51:50:00,8:06,50:16,34,173,50:16
+201,202,596,Laini Bettencourt,35.0,Gaithersburg MD,51:36:00,8:06,50:18,45,247,50:18
+202,203,3348,Amy Padilla,22.0,Ft Meade MD,53:30:00,8:06,50:18,20,86,50:18
+203,204,558,Natalia Barrionuevo,31.0,Rockville MD,51:43:00,8:06,50:18,32,173,50:18
+204,205,634,Elizabeth Bolton,23.0,Washington DC,51:33:00,8:07,50:24,21,86,50:24
+205,206,1559,Annabel Khouri,32.0,Rockville MD,53:36:00,8:08,50:29,33,173,50:29
+206,207,2308,Ida Rosenblum,24.0,Greensboro NC,51:40:00,8:08,50:30,22,86,50:30
+207,208,1110,Sandra Fitzpatrick,37.0,Rockville MD,54:18:00,8:09,50:34,46,247,50:34
+208,209,234,Julie Ann Smith,37.0,Rockville MD,51:59:00,8:09,50:35,47,247,50:35
+209,210,1102,Cece Finan,41.0,Chevy Chase MD,53:55:00,8:09,50:38,35,173,50:38
+210,211,2115,Heidi Paxton,45.0,Herndon VA,53:46:00,8:09,50:39,21,110,50:39
+211,212,619,Donna Blumenauer,50.0,Germantown MD,51:46:00,8:10,50:40,5,76,50:40
+212,213,121,Amy Bunk,39.0,Falls Church VA,54:00:00,8:10,50:40,48,247,50:40
+213,214,2309,Cathie Rosenfeld,54.0,Olney MD,53:44:00,8:10,50:41,6,76,50:41
+214,215,2949,Kim Charmatz,29.0,Gaithersburg MD,52:08:00,8:10,50:44,30,142,50:44
+215,216,846,Ellen Cooper,55.0,Rockville MD,52:09:00,8:10,50:45,3,28,50:45
+216,217,3230,Susan King,36.0,Monrovia MD,53:57:00,8:11,50:49,49,247,50:49
+217,218,1615,Teri Kozlowski,43.0,New Market MD,52:05:00,8:11,50:49,36,173,50:49
+218,219,866,Hillary Crehan,26.0,Arlington VA,51:55:00,8:11,50:51,31,142,50:51
+219,220,2492,Keira Smith,30.0,Burke VA,54:11:00,8:11,50:51,34,173,50:51
+220,221,936,Sharlene Deskins,41.0,Seabrook MD,54:36:00,8:12,50:53,37,173,50:53
+221,222,1612,Erica Korb,22.0,Washington DC,53:54:00,8:12,50:53,23,86,50:53
+222,223,3368,Sharlene Deskins,41.0,.,54:37:00,8:12,50:53,38,173,50:53
+223,224,2697,Cezarina Viqueira,17.0,Germantown MD,52:05:00,8:12,50:57,13,26,50:57
+224,225,1456,Connie Jacobson,48.0,Rockville MD,54:59:00,8:13,51:01,22,110,51:01
+225,226,2261,Jennifer Renne,39.0,Greenbelt MD,52:10:00,8:13,51:02,50,247,51:02
+226,227,3291,Yolanda Perez,63.0,Takoma Park MD,54:09:00,8:13,51:02,6,19,51:02
+227,228,1357,Lorri Heatwole,46.0,Gaithersburg MD,54:05:00,8:13,51:04,23,110,51:04
+228,229,485,Jill Andrews,45.0,Olney MD,54:12:00,8:14,51:05,24,110,51:05
+229,230,2206,Julie Quelet,31.0,Hagerstown MD,54:15:00,8:14,51:08,35,173,51:08
+230,231,2672,Jeanne Ulrich,42.0,Jefferson MD,54:44:00,8:14,51:08,39,173,51:08
+231,232,205,Roxane Sismanidis,50.0,Washington DC,54:34:00,8:14,51:09,7,76,51:09
+232,233,949,Yana Dieringer,24.0,Bethesda MD,54:11:00,8:14,51:10,24,86,51:10
+233,234,449,Vivian Adkins,36.0,Potomac MD,54:12:00,8:14,51:10,51,247,51:10
+234,235,1813,Katya Marin,36.0,Bethesda MD,54:17:00,8:15,51:14,52,247,51:14
+235,236,1431,Laura Hustead,32.0,Bethesda MD,54:18:00,8:16,51:18,36,173,51:18
+236,237,2787,Stephanie Willis,33.0,Silver Spring M,D   52:29,8:16,51:18,37,173,51:18
+237,238,1826,Anne Martin,35.0,Chevy Chase MD,54:28:00,8:16,51:18,53,247,51:18
+238,239,2047,Melissa O'connor,38.0,G'burg MD,54:36:00,8:16,51:19,54,247,51:19
+239,240,1520,Nancy Karabaic,46.0,Silver Spring M,D   52:43,8:16,51:19,25,110,51:19
+240,241,3349,Holly Mcgulgan,45.0,Mclean VA,52:49:00,8:16,51:21,26,110,51:21
+241,242,2207,Robin Quinn,45.0,Woodbridge VA,54:51:00,8:16,51:22,27,110,51:22
+242,243,2450,Jean Silverman,49.0,Kensington MD,54:59:00,8:17,51:25,28,110,51:25
+243,244,663,Jessica Bravo,31.0,Germantown MD,52:30:00,8:17,51:26,38,173,51:26
+244,245,1732,Elaine Lippmann,32.0,Silver Spring M,D   54:40,8:17,51:27,39,173,51:27
+245,246,1358,Kimberly Heifetz,35.0,Washington DC,54:41:00,8:17,51:27,55,247,51:27
+246,247,1982,Nina Munck,41.0,Bethesda MD,52:56:00,8:18,51:29,40,173,51:29
+247,248,2760,Kim Westervelt,43.0,Clarksburg MD,54:37:00,8:18,51:31,41,173,51:31
+248,249,873,Diana Crysler,26.0,Columbia MD,54:47:00,8:18,51:33,32,142,51:33
+249,250,2323,Adriana Ruan,31.0,Potomac MD,54:41:00,8:18,51:35,40,173,51:35
+250,251,1532,Amy Katz,34.0,Potomac MD,54:41:00,8:18,51:35,41,173,51:35
+251,252,1755,Hananh Lowell,13.0,Catlett VA,54:51:00,8:18,51:35,2,15,51:35
+252,253,1318,Tish Halle,43.0,Gaithersburg MD,54:38:00,8:18,51:35,42,173,51:35
+253,254,2228,Kimberly Ramsay,35.0,Kensington MD,54:38:00,8:18,51:35,56,247,51:35
+254,255,1261,Cathy Gormley,50.0,Bowie MD,54:55:00,8:19,51:36,8,76,51:36
+255,256,2823,Weining Xu,36.0,Centreville VA,52:50:00,8:19,51:39,57,247,51:39
+256,257,2305,Laura Rosenbaum,28.0,Gaithersburg MD,54:55:00,8:20,51:42,33,142,51:42
+257,258,759,Maria Cepeda,47.0,Silver Spring M,D   52:57,8:20,51:43,29,110,51:43
+258,259,2906,Marie Whiteis,38.0,Germantown MD,55:48:00,8:20,51:47,58,247,51:47
+259,260,1591,Audrey Klein,47.0,Gaithersburg MD,55:32:00,8:21,51:48,30,110,51:48
+260,261,2620,Chani Thakkar,28.0,Damascus MD,53:17:00,8:21,51:53,34,142,51:53
+261,262,984,Gina Domis,28.0,Wash DC,55:52:00,8:22,51:56,35,142,51:56
+262,263,2714,Courtney Wallin,30.0,Rockville MD,53:00:00,8:22,51:56,42,173,51:56
+263,264,606,Cassie Billinger,22.0,Montgomery Vill,55:03:00,8:22,51:58,25,86,51:58
+264,265,1765,Meredith Luther,33.0,Kensington MD,55:30:00,8:22,52:00,43,173,52:00
+265,266,1075,Rabna Fana,28.0,Washington DC,53:36:00,8:23,52:01,36,142,52:01
+266,267,611,Nancy Blanco,30.0,Bethesda MD,55:04:00,8:23,52:02,44,173,52:02
+267,268,641,Phyllis Borreda,44.0,Brookeville MD,55:09:00,8:23,52:04,43,173,52:04
+268,269,723,Christine Caprario,35.0,Mount Airy MD,55:37:00,8:23,52:05,59,247,52:05
+269,270,1021,Margaret Eccles,43.0,Derwood MD,55:23:00,8:23,52:05,44,173,52:05
+270,271,1077,Behnaz Fardshisheh,53.0,Potomac MD,53:14:00,8:23,52:06,9,76,52:06
+271,272,1846,Maryvonne Maupriez-Ma,57.0,Bethesda MD,53:14:00,8:24,52:06,4,28,52:06
+272,273,878,Leslie Curtis,39.0,Laurel MD,55:29:00,8:24,52:08,60,247,52:08
+273,274,1906,Mary Megorden,18.0,Gaithersburg MD,55:32:00,8:24,52:09,14,26,52:09
+274,275,1588,Wendy Klecker,41.0,Gaithersburg MD,55:57:00,8:24,52:11,45,173,52:11
+275,276,2789,Barbara Wilson,28.0,Gaithersburg MD,53:48:00,8:25,52:13,37,142,52:13
+276,277,3236,Jessica Bruner,31.0,Gaithersburg MD,53:33:00,8:25,52:14,45,173,52:14
+277,278,197,Catherine Poole,29.0,Germantown MD,55:16:00,8:25,52:14,38,142,52:14
+278,279,703,Virginia Bute-Riley,35.0,Beltsville MD,56:07:00,8:25,52:17,61,247,52:17
+279,280,2533,Jennifer Sproul,51.0,Gaithersburg MD,56:14:00,8:26,52:20,10,76,52:20
+280,281,2867,Beth Mcavoy,38.0,Chevy Chase MD,55:43:00,8:26,52:23,62,247,52:23
+281,282,537,Michelle Bahe,23.0,Silver Spring M,D   55:59,8:26,52:25,26,86,52:25
+282,283,3234,Jennifer Clark,32.0,Vienna VA,55:40:00,8:27,52:27,46,173,52:27
+283,284,2847,Kristen Zeligs,22.0,Rockville MD,55:48:00,8:27,52:29,27,86,52:29
+284,285,625,Lauren Bogart,39.0,Gaithersburg MD,54:01:00,8:27,52:29,63,247,52:29
+285,286,652,Suzette Bradbury,44.0,Kensington MD,55:59:00,8:27,52:30,46,173,52:30
+286,287,1038,Margery Elliott,73.0,Bethesda MD,52:35:00,8:28,52:34,1,3,52:34
+287,288,827,Lynne Collard,56.0,Gaithersburg MD,55:41:00,8:29,52:40,5,28,52:40
+288,289,1861,Kelly Mcconnell,39.0,Germantown MD,55:58:00,8:29,52:43,64,247,52:43
+289,290,2481,Betty Smith,65.0,Rockville MD,53:59:00,8:30,52:44,1,5,52:44
+290,291,1319,Rebekah Hamelink,22.0,Gaithersburg MD,56:09:00,8:30,52:45,28,86,52:45
+291,292,425,Jennifer Porter,28.0,Woodstock MD,56:22:00,8:30,52:49,39,142,52:49
+292,293,1348,Carrie Hastings,27.0,Westminster MD,56:04:00,8:31,52:55,40,142,52:55
+293,294,2298,Susan Rohrer,25.0,Hanover PA,56:04:00,8:31,52:55,41,142,52:55
+294,295,2739,Jill Weber,32.0,Chevy Chase MD,56:09:00,8:31,52:55,47,173,52:55
+295,296,2836,Erica Yuan,38.0,Kensington MD,56:08:00,8:32,52:58,65,247,52:58
+296,297,2552,Elizabeth Sterling,37.0,Olney MD,56:27:00,8:32,52:58,66,247,52:58
+297,298,3017,Mathilde Arandia,12.0,Mclean VA,53:04:00,8:32,52:59,3,15,52:59
+298,299,2195,Alyssa Prorok,23.0,Brookeville MD,56:49:00,8:32,52:59,29,86,52:59
+299,300,2567,Dianne Strite,49.0,Damascus MD,56:53:00,8:32,52:59,31,110,52:59
+300,301,2800,Elizabeth Wolfe,28.0,Washington DC,54:16:00,8:32,52:59,42,142,52:59
+301,302,1378,April Hipkins,30.0,Germantown MD,56:25:00,8:32,52:59,48,173,52:59
+302,303,647,Laura Boyer,42.0,Silver Spring M,D   56:54,8:32,53:01,47,173,53:01
+303,304,1743,Heidi Logothetti,23.0,Alexandria VA,56:03:00,8:32,53:01,30,86,53:01
+304,305,173,Rosie Kelly,39.0,Wasington DC,56:11:00,8:32,53:01,67,247,53:01
+305,306,434,Karyn Tauber,37.0,Gaithersburg MD,54:33:00,8:33,53:05,68,247,53:05
+306,307,2709,Diana Walker,40.0,Olney MD,54:32:00,8:33,53:06,48,173,53:06
+307,308,2114,Lisa Pavia,41.0,Silver Spring M,D   56:32,8:33,53:08,49,173,53:08
+308,309,3310,Katherine Sandler,64.0,Bethesda MD,56:17:00,8:34,53:10,7,19,53:10
+309,310,1511,Lori Kaleikau,47.0,Germantown MD,54:35:00,8:34,53:10,32,110,53:10
+310,311,1204,Nicole Geifman,34.0,Rockville MD,54:38:00,8:34,53:11,49,173,53:11
+311,312,3246,Susie Loutoo,53.0,Gaithersburg MD,56:27:00,8:34,53:13,11,76,53:13
+312,313,2278,Cortney Riese,27.0,Silver Spring M,D   57:22,8:35,53:16,43,142,53:16
+313,314,2737,Tina Webb,28.0,Rockville MD,56:45:00,8:35,53:16,44,142,53:16
+314,315,1462,Jane Jakubczak,39.0,Bethesda MD,56:27:00,8:35,53:17,69,247,53:17
+315,316,961,Kathryn Dincher,22.0,Baltimore MD,56:27:00,8:35,53:17,31,86,53:17
+316,317,2644,Rebecca Topham,29.0,Rockville MD,56:46:00,8:35,53:17,45,142,53:17
+317,318,2751,Traci Weinstein,36.0,Potomac MD,58:49:00,8:35,53:18,70,247,53:18
+318,319,2677,Erin Uy,37.0,Derwood MD,56:34:00,8:35,53:19,71,247,53:19
+319,320,2051,Catherine O'hara,37.0,Boyds MD,56:26:00,8:35,53:20,72,247,53:20
+320,321,891,Katie Daniel,27.0,Alexandria VA,56:34:00,8:36,53:21,46,142,53:21
+321,322,1311,Vanessa Haigler,46.0,Washington DC,54:32:00,8:36,53:22,33,110,53:22
+322,323,2602,Stacey Tate,25.0,Washington DC,56:34:00,8:36,53:23,47,142,53:23
+323,324,1191,Cara Garretson,38.0,Gaithersburg MD,57:15:00,8:36,53:24,73,247,53:24
+324,325,488,Sallie Ka Angus,26.0,Silver Spring M,D   56:41,8:36,53:26,48,142,53:26
+325,326,1525,Claudia Karwoski,43.0,Germantown MD,57:15:00,8:36,53:27,50,173,53:27
+326,327,2387,Catherine Schuler,53.0,Silver Spring M,D   56:51,8:37,53:27,12,76,53:27
+327,328,2449,Suzanne Siguenza,44.0,Silver Spring M,D   57:27,8:37,53:27,51,173,53:27
+328,329,1690,Katherine Lefert,27.0,Washington DC,57:29:00,8:37,53:29,49,142,53:29
+329,330,692,Lauren Buchheister,33.0,College Park MD,56:45:00,8:37,53:29,50,173,53:29
+330,331,2131,Claudia Perez,32.0,Gaithersburg MD,56:34:00,8:37,53:29,51,173,53:29
+331,332,548,Natalie Barakat,26.0,Rockville MD,57:32:00,8:37,53:29,50,142,53:29
+332,333,1314,Denise Haley,42.0,Greencastle PA,56:55:00,8:37,53:29,52,173,53:29
+333,334,2183,Stefanie Powers,41.0,Silver Spring M,D   56:36,8:37,53:30,53,173,53:30
+334,335,3206,Phyllis Fagell,32.0,Bethesda MD,54:41:00,8:37,53:31,52,173,53:31
+335,336,1664,Nathalie Lavine,24.0,Arlington VA,54:49:00,8:37,53:32,32,86,53:32
+336,337,1144,Nikki Fraser,31.0,Rockville MD,57:02:00,8:38,53:33,53,173,53:33
+337,338,2684,Nancy Vanderweele,39.0,Silver Spring M,D   57:17,8:38,53:34,74,247,53:34
+338,339,1344,Ronda Hartzel,32.0,Gaithersburg MD,56:46:00,8:38,53:34,54,173,53:34
+339,340,612,Marlow Blankenship,39.0,Boyds MD,56:42:00,8:38,53:35,75,247,53:35
+340,341,624,Olafia Bogan,42.0,Germantown MD,57:03:00,8:38,53:35,54,173,53:35
+341,342,3351,Shannon Hopkins,40.0,Mt. Airy MD,54:52:00,8:38,53:37,55,173,53:37
+342,343,2436,Nancye Shipe,43.0,Gaithersburg MD,57:00:00,8:39,53:41,56,173,53:41
+343,344,1741,Kathleen Lockhart,43.0,Silver Spring M,D   57:30,8:39,53:42,57,173,53:42
+344,345,607,Kathy Black,28.0,Arlington VA,57:33:00,8:39,53:43,51,142,53:43
+345,346,2686,Megan Vaughn,29.0,Olney MD,54:58:00,8:39,53:44,52,142,53:44
+346,347,725,Kristen Carey,35.0,Frederick MD,56:55:00,8:39,53:45,76,247,53:45
+347,348,2015,Glenda Nelson,41.0,Rockville MD,55:13:00,8:39,53:45,58,173,53:45
+348,349,1598,Linda Klischer,45.0,Rockville MD,57:19:00,8:40,53:46,34,110,53:46
+349,350,3211,Linda Ridenour,52.0,Chevy Chase MD,56:53:00,8:40,53:47,13,76,53:47
+350,351,2120,Rachel Peck,35.0,Rockville MD,56:52:00,8:40,53:47,77,247,53:47
+351,352,1081,Pattie Farrell,42.0,Millersville MD,55:00:00,8:40,53:47,59,173,53:47
+352,353,745,Whitney Carroll,38.0,Damascus MD,56:50:00,8:40,53:49,78,247,53:49
+353,354,940,Linda Devlin,44.0,Gaithersburg MD,57:29:00,8:40,53:49,60,173,53:49
+354,355,1652,Jennifer Laroche,37.0,Bethesda MD,56:57:00,8:40,53:50,79,247,53:50
+355,356,645,Elise Bowman,41.0,Derwood MD,57:33:00,8:40,53:51,61,173,53:51
+356,357,593,Jennifer Berzok,35.0,Washington DC,57:43:00,8:40,53:52,80,247,53:52
+357,358,552,Ashley Barkakati,15.0,North Potomac M,D   55:18,8:41,53:52,15,26,53:52
+358,359,1468,Lindsay Jauss,29.0,Kensington MD,57:03:00,8:41,53:54,53,142,53:54
+359,360,2765,Leigh Ann Wheaton,30.0,Silver Spring M,D   57:54,8:42,53:58,55,173,53:58
+360,361,862,Kristine Craig,38.0,Gaithersburg MD,57:06:00,8:42,53:59,81,247,53:59
+361,362,2951,Lily Burch,47.0,Potomac MD,59:01:00,8:42,53:59,35,110,53:59
+362,363,840,Deborah Constantine,38.0,Mt. Airy MD,57:49:00,8:42,54:01,82,247,54:01
+363,364,629,Cynthia Bohne,36.0,Bethesda MD,57:13:00,8:42,54:02,83,247,54:02
+364,365,3207,Susan Schaefer,33.0,Bethesda MD,55:13:00,8:42,54:03,56,173,54:03
+365,366,1694,Melissa Leighton,36.0,Rockville MD,58:08:00,8:43,54:04,84,247,54:04
+366,367,2364,Priscilla Sandoval,39.0,Gaithersburg MD,57:16:00,8:43,54:04,85,247,54:04
+367,368,903,Hillary Davidson,38.0,Bethesda MD,57:57:00,8:43,54:05,86,247,54:05
+368,369,3003,Michele Laur,54.0,Rockville MD,58:11:00,8:43,54:06,14,76,54:06
+369,370,2348,Barbara Sable,42.0,Potomac MD,55:15:00,8:43,54:07,62,173,54:07
+370,371,2448,Julieta Siegel,45.0,Rockville MD,55:36:00,8:43,54:09,36,110,54:09
+371,372,1844,Jennifer Matysczak,28.0,Rockville MD,57:25:00,8:43,54:09,54,142,54:09
+372,373,3036,Erica Stein,23.0,Gaithersburg MD,58:04:00,8:43,54:10,33,86,54:10
+373,374,1543,Ana Maria Kelley,28.0,Germantown MD,55:15:00,8:44,54:12,55,142,54:12
+374,375,796,Gina Cimineri,26.0,Germantownt MD,57:32:00,8:44,54:12,56,142,54:12
+375,376,1350,Cheryl Havenstein,49.0,Mt. Airy MD,55:28:00,8:44,54:12,37,110,54:12
+376,377,2443,Elena Shuvalov,36.0,Clarksburg MD,57:26:00,8:44,54:14,87,247,54:14
+377,378,2646,Deb Toro,37.0,Chevy Chase MD,57:45:00,8:44,54:15,88,247,54:15
+378,379,1493,Franca Jones,36.0,Clarksburg MD,57:53:00,8:45,54:17,89,247,54:17
+379,380,1403,Sharon Horowitz,53.0,Silver Spring M,D   57:46,8:45,54:19,15,76,54:19
+380,381,2233,Christine Rath,30.0,Silver Spring M,D   57:22,8:45,54:20,57,173,54:20
+381,382,1936,Naomi Miner,49.0,Rockville MD,57:24:00,8:45,54:21,38,110,54:21
+382,383,1917,Stefanie Merritt,-1.0,Alexandria VA,55:33:00,8:45,54:22,4,15,54:22
+383,384,1987,Martha Murphy,50.0,Gaithersburg MD,57:43:00,8:45,54:22,16,76,54:22
+384,385,1225,Alicia Gilbert,43.0,Rockville MD,57:27:00,8:46,54:23,63,173,54:23
+385,386,2564,Michele Strachan,34.0,Kensington MD,58:20:00,8:46,54:25,58,173,54:25
+386,387,500,Mariefran Armstrong,52.0,Rockville MD,58:23:00,8:46,54:26,17,76,54:26
+387,388,806,Miriam Clinton,35.0,Burke VA,58:09:00,8:47,54:31,90,247,54:31
+388,389,604,Ann Billes,56.0,Silver Spring M,D   57:54,8:47,54:32,6,28,54:32
+389,390,1152,Monique Freitas,37.0,Rockville MD,57:34:00,8:47,54:32,91,247,54:32
+390,391,2302,Alexandra Rose,36.0,Rockville MD,55:48:00,8:48,54:36,92,247,54:36
+391,392,2905,Donna Mcbride,41.0,Rockville MD,57:57:00,8:48,54:37,64,173,54:37
+392,393,516,Trish Audi,35.0,Ashton MD,57:39:00,8:48,54:37,93,247,54:37
+393,394,1572,Jenny Kimball,35.0,Rockville MD,57:39:00,8:48,54:37,94,247,54:37
+394,395,2999,Lesley Leonard,40.0,Frederick MD,58:08:00,8:48,54:38,65,173,54:38
+395,396,820,Miriam Cohen,47.0,Potomac MD,58:14:00,8:48,54:39,39,110,54:39
+396,397,1247,Elissa Goldfarb,44.0,Potomac MD,58:15:00,8:48,54:40,66,173,54:40
+397,398,1418,Leslie Hristov,24.0,Annandale VA,58:02:00,8:49,54:43,34,86,54:43
+398,399,1995,Karen Murrell,38.0,Silver Spring M,D   58:08,8:49,54:44,95,247,54:44
+399,400,2766,Guissella Wheeler,42.0,Kensington MD,58:07:00,8:50,54:49,67,173,54:49
+400,401,1964,Renee Morris,35.0,Stone Ridge VA,58:15:00,8:50,54:50,96,247,54:50
+401,402,883,Belinda D'agostino,47.0,Falls Church VA,58:35:00,8:50,54:53,40,110,54:53
+402,403,412,Kathleen Shannon,33.0,Silver Spring M,D   58:16,8:50,54:54,59,173,54:54
+403,404,1769,Amy Lwin,45.0,North Potomac M,D   58:41,8:51,54:54,41,110,54:54
+404,405,188,Doris Nedved,39.0,Germantown MD,58:26:00,8:51,54:55,97,247,54:55
+405,406,2507,Bridget Sokol,31.0,Olney MD,58:29:00,8:51,54:55,60,173,54:55
+406,407,2634,Kerin Thornton,24.0,Columbia MD,58:22:00,8:51,54:55,35,86,54:55
+407,408,1835,Lizabeth Massey,30.0,Germantown MD,58:05:00,8:51,54:55,61,173,54:55
+408,409,2568,Jennifer Strouble,32.0,Clarksburg MD,58:06:00,8:51,54:56,62,173,54:56
+409,410,1074,Amy Falls,27.0,Gaithersburg MD,58:39:00,8:51,54:58,57,142,54:58
+410,411,2402,Malverta Scott,29.0,Corona NY,58:57:00,8:51,54:58,58,142,54:58
+411,412,2908,Meredith Moerschbache,25.0,Silver Spring M,D   58:29,8:51,54:59,59,142,54:59
+412,413,1697,Elizabeth Lemmo,38.0,Olney MD,56:28:00,8:51,55:00,98,247,55:00
+413,414,1126,Gabrielle Fontana,39.0,Chevy Chase MD,58:23:00,8:52,55:02,99,247,55:02
+414,415,2042,Christine Nuyen,36.0,Gaithersburg MD,58:11:00,8:52,55:03,100,247,55:03
+415,416,812,Danielle Coghlan,23.0,Leesburg VA,58:28:00,8:53,55:07,36,86,55:07
+416,417,1752,Jane Doe,34.0,Stone Ridge VA,58:36:00,8:53,55:10,63,173,55:10
+417,418,1746,Christine Long,38.0,Boyds MD,58:43:00,8:53,55:11,101,247,55:11
+418,419,1570,Ann Kim,19.0,Silver Spring M,D   59:01,8:53,55:12,16,26,55:12
+419,420,1349,Nora Hattery,26.0,Baltimore MD,58:30:00,8:54,55:13,60,142,55:13
+420,421,24,Tami Graf,69.0,Lusby MD,55:19:00,8:54,55:14,2,5,55:14
+421,422,1952,Anne Moore,38.0,N Bethesda MD,58:30:00,8:54,55:16,102,247,55:16
+422,423,1245,Margaret Gold,42.0,Rockville MD,58:30:00,8:54,55:16,68,173,55:16
+423,424,2193,Mary Proctor,57.0,Reston VA,58:25:00,8:54,55:17,7,28,55:17
+424,425,982,Victoria Dols,33.0,Rockville MD,1:00:24,8:55,55:23,64,173,55:23
+425,426,3307,Lesley Green,36.0,Sterling VA,59:01:00,8:55,55:24,103,247,55:24
+426,427,941,Maureen Dewey,36.0,North Potomac M,D   58:58,8:55,55:24,104,247,55:24
+427,428,1280,Sarah Greenberg,36.0,Bethesda MD,59:13:00,8:55,55:25,105,247,55:25
+428,429,1197,Jojo Gaul,30.0,Kensington MD,59:01:00,8:55,55:25,65,173,55:25
+429,430,1294,Sandra Guinan,32.0,Montgomery Vill,58:42:00,8:55,55:25,66,173,55:25
+430,431,975,Alexandra Dobbs,17.0,Olney MD,58:35:00,8:56,55:26,17,26,55:26
+431,432,1189,Maria F Garcia,25.0,Silver Spring M,D   59:08,8:56,55:26,61,142,55:26
+432,433,1135,Mary Foster,49.0,Gaithersburg MD,59:17:00,8:56,55:27,42,110,55:27
+433,434,1426,Micki Hultquist,35.0,Gaithersburg MD,56:58:00,8:56,55:28,106,247,55:28
+434,435,109,Alison Bartleman,32.0,Bethesda MD,56:58:00,8:56,55:28,67,173,55:28
+435,436,2203,Donna Quackenbush,37.0,Germantown MD,56:40:00,8:56,55:28,107,247,55:28
+436,437,2590,Daphna Szanto,46.0,Germantown MD,59:04:00,8:56,55:30,43,110,55:30
+437,438,988,Kelly Dooley,29.0,Rockville MD,58:56:00,8:57,55:31,62,142,55:31
+438,439,913,Mieke De Boer,25.0,Chevy Chase MD,58:39:00,8:57,55:31,63,142,55:31
+439,440,1782,Iris Madison,49.0,Gaithersburg MD,59:07:00,8:57,55:32,44,110,55:32
+440,441,1805,Kim Manthei,35.0,Rockville MD,59:05:00,8:57,55:33,108,247,55:33
+441,442,570,Christine Beall,33.0,Gaithersburg MD,59:05:00,8:57,55:33,68,173,55:33
+442,443,1671,Sonya Leaman,40.0,Germantown MD,59:22:00,8:57,55:34,69,173,55:34
+443,444,2753,Lee Ann Weir,41.0,Rockville MD,59:14:00,8:57,55:36,70,173,55:36
+444,445,1849,Sara Mayer,36.0,Rockville MD,58:44:00,8:57,55:36,109,247,55:36
+445,446,1529,Debbie Kates,31.0,Sterling VA,58:56:00,8:57,55:37,69,173,55:37
+446,447,2584,Christine Sun,29.0,Potomac Falls V,A   58:56,8:57,55:37,64,142,55:37
+447,448,698,Linda Burrell,47.0,Derwood MD,59:14:00,8:57,55:37,45,110,55:37
+448,449,2262,Zaida Revilla,41.0,Gaithersburg MD,56:44:00,8:58,55:38,71,173,55:38
+449,450,751,Hannah Castillo,23.0,Ijamsville MD,59:17:00,8:58,55:38,37,86,55:38
+450,451,2294,Kim Roche,44.0,Rockville MD,59:00:00,8:58,55:38,72,173,55:38
+451,452,1653,Jeanne Larrison,51.0,Chesapeake MD,59:52:00,8:58,55:39,18,76,55:39
+452,453,1382,Tara Hoffman,34.0,Falls Church VA,59:34:00,8:58,55:39,70,173,55:39
+453,454,2289,Holly Roberts,36.0,Millersville MD,59:12:00,8:58,55:40,110,247,55:40
+454,455,3032,Lenore Gelman,37.0,Gaithersburg MD,58:43:00,8:58,55:40,111,247,55:40
+455,456,1707,Amy Levine,22.0,Rockville MD,59:11:00,8:58,55:40,38,86,55:40
+456,457,1275,Jennifer Green,29.0,Kensington MD,59:13:00,8:58,55:40,65,142,55:40
+457,458,885,Jean Dailey,53.0,Rockville MD,59:14:00,8:58,55:41,19,76,55:41
+458,459,2998,Sarah Leonard,36.0,Gaithersburg MD,59:10:00,8:58,55:41,112,247,55:41
+459,460,1205,Lynn Geisert,54.0,Chevy Chase MD,59:44:00,8:58,55:42,20,76,55:42
+460,461,2828,Linda Yarr,62.0,Bethesda MD,56:55:00,8:58,55:43,8,19,55:43
+461,462,438,Michaela Acker,20.0,Leesburg VA,58:57:00,8:59,55:44,39,86,55:44
+462,463,649,Brianna Boyle,27.0,Fairfax VA,58:57:00,8:59,55:44,66,142,55:44
+463,464,2438,Natalie Shirley,36.0,Gaithersburg MD,59:14:00,8:59,55:45,113,247,55:45
+464,465,2575,Gilda Stubin,42.0,Silver Spring M,D   59:21,8:59,55:46,73,173,55:46
+465,466,1654,Deanna Larsen,37.0,Falls Church VA,59:13:00,8:59,55:48,114,247,55:48
+466,467,2611,Christine Taylor,29.0,Potomac MD,57:01:00,9:00,55:50,67,142,55:50
+467,468,599,Alicia Bevington,30.0,Chevy Chase MD,59:16:00,9:00,55:50,71,173,55:50
+468,469,791,Bianca Christensen,40.0,Silver Spring M,D   59:32,9:00,55:51,74,173,55:51
+469,470,1041,Linda Ellison-Dejew,41.0,Germantown MD,59:22:00,9:00,55:51,75,173,55:51
+470,471,917,Julia Debernardis,24.0,Silver Spring M,D   59:08,9:00,55:53,40,86,55:53
+471,472,1907,Sarah Megorden,21.0,Gaithersburg MD,59:18:00,9:00,55:54,41,86,55:54
+472,473,1034,Jan Eisner,43.0,Bethesda MD,59:45:00,9:00,55:56,76,173,55:56
+473,474,829,Annie Collins,24.0,Bethesda MD,57:32:00,9:01,55:56,42,86,55:56
+474,475,1829,Kristi Martinsen,26.0,Silver Spring M,D   59:55,9:01,56:00,68,142,56:00
+475,476,1640,Lisa Lafrance,38.0,Natick MA,59:50:00,9:01,56:00,115,247,56:00
+476,477,1255,Doria Goorevich,22.0,Gaithersburg MD,57:22:00,9:01,56:00,43,86,56:00
+477,478,707,Susan Byrne,50.0,Olney MD,59:49:00,9:02,56:04,21,76,56:04
+478,479,2031,Kathleen Nicolls,33.0,Germantown MD,59:35:00,9:02,56:07,72,173,56:07
+479,480,2215,Stephanie Raden,27.0,Germantown MD,59:35:00,9:02,56:07,69,142,56:07
+480,481,2281,Connie Righter,26.0,Laplata MD,1:01:16,9:02,56:08,70,142,56:08
+481,482,2430,Marina Shellhaas,34.0,Rockville MD,57:41:00,9:02,56:08,73,173,56:08
+482,483,2772,Karen Whitesell,46.0,North Potomac M,D   59:57,9:03,56:09,46,110,56:09
+483,484,1594,Kc Kleinman,45.0,Silver Spring M,D   59:09,9:03,56:09,47,110,56:09
+484,485,1278,Stefanie Greenberg,37.0,Rockville MD,59:41:00,9:03,56:10,116,247,56:10
+485,486,1604,Chiyo Kobayashi,45.0,Bethesda MD,57:37:00,9:03,56:13,48,110,56:13
+486,487,2144,Lorin Pfeil,36.0,Arlington VA,59:31:00,9:04,56:17,117,247,56:17
+487,488,2576,Patty Stull,43.0,Clarksburg MD,57:27:00,9:05,56:21,77,173,56:21
+488,489,1657,Carin Larson,28.0,Washington DC,1:00:16,9:05,56:22,71,142,56:22
+489,490,1575,Leslie King,45.0,Arlington VA,1:01:33,9:05,56:23,49,110,56:23
+490,491,588,Meredith Berlin,31.0,Rockville MD,57:51:00,9:05,56:24,74,173,56:24
+491,492,1190,Glenda Garcia,32.0,Bethesda MD,59:58:00,9:05,56:26,75,173,56:26
+492,493,865,Brett Crawford,40.0,Silver Spring M,D   59:51,9:05,56:27,78,173,56:27
+493,494,2456,Karen Simon,47.0,Bethesda MD,59:49:00,9:05,56:27,50,110,56:27
+494,495,916,Ana Deandreis,43.0,Bethesda MD,59:42:00,9:06,56:28,79,173,56:28
+495,496,2897,Melissa Polott,50.0,Gaithersburg MD,1:00:32,9:06,56:28,22,76,56:28
+496,497,1120,Laurie Flyer,38.0,Rockville MD,58:00:00,9:06,56:28,118,247,56:28
+497,498,1956,Maria Morasso,44.0,Bethesda MD,59:42:00,9:06,56:28,80,173,56:28
+498,499,757,Helen Cawley,37.0,Bethesda MD,1:00:10,9:06,56:29,119,247,56:29
+499,500,906,Sarah Davis,37.0,Silver Spring M,D 1:00:17,9:06,56:33,120,247,56:33
+500,501,118,Carrie Brancart,45.0,Herndon VA,1:00:13,9:07,56:36,51,110,56:36
+501,502,1706,Karen Lesser,42.0,Bethesda MD,1:02:06,9:08,56:40,81,173,56:40
+502,503,2641,Donna Tisdale,42.0,Kensington MD,1:00:13,9:08,56:40,82,173,56:40
+503,504,2137,Bethany Perry,28.0,Germantown MD,1:00:14,9:08,56:40,72,142,56:40
+504,505,2558,Gretchen Stiers,43.0,Silver Spring M,D 1:00:11,9:08,56:41,83,173,56:41
+505,506,1116,Michelle Fleshner,17.0,Bethesda MD,1:00:24,9:08,56:43,18,26,56:43
+506,507,1032,Debra Egloff,40.0,Montgomery Vill,1:00:40,9:08,56:43,84,173,56:43
+507,508,2021,Laura Newberry,35.0,Smithsburg MD,1:00:46,9:08,56:43,121,247,56:43
+508,509,2217,Hanada Rados,44.0,Germantown MD,1:00:12,9:08,56:43,85,173,56:43
+509,510,429,Maura Ardike,25.0,Bethesda MD,1:00:21,9:08,56:44,73,142,56:44
+510,511,2991,Leigh Bluestein,38.0,Germantown MD,1:00:12,9:08,56:44,122,247,56:44
+511,512,1510,Naoko Kakinuma,34.0,Rockville MD,1:00:47,9:08,56:45,76,173,56:45
+512,513,2512,Caryn Solomon,34.0,Bethesda MD,1:00:50,9:09,56:49,77,173,56:49
+513,514,1593,Debbie Kleinbord,34.0,Bethesda MD,1:00:50,9:09,56:50,78,173,56:50
+514,515,2442,Christine Shrout,23.0,Rockville MD,1:00:28,9:10,56:52,44,86,56:52
+515,516,2379,Jodi Scholes,38.0,Vienna VA,58:08:00,9:10,56:54,123,247,56:54
+516,517,2300,Tabatha Romack,37.0,Gaithersburg MD,1:00:29,9:10,56:58,124,247,56:58
+517,518,2950,Karen Anselmo,35.0,Rockville MD,1:00:35,9:10,56:58,125,247,56:58
+518,519,2886,Mary Mccann,62.0,Silver Spring M,D 1:02:14,9:11,56:59,9,19,56:59
+519,520,2429,Lori Shell,32.0,Gaithersburg MD,1:00:37,9:11,56:59,79,173,56:59
+520,521,1843,Emily Matusek,34.0,Derwood MD,1:00:18,9:11,57:00,80,173,57:00
+521,522,1824,Brauna Martin,41.0,Potomac MD,1:00:46,9:11,57:00,86,173,57:00
+522,523,741,Suzanne Carrillo,44.0,North Potomac M,D 1:00:49,9:11,57:02,87,173,57:02
+523,524,1758,Heather Lucas,35.0,Bethesda MD,1:00:38,9:11,57:02,126,247,57:02
+524,525,648,Johanna Boyers,34.0,Vienna VA,1:00:17,9:11,57:04,81,173,57:04
+525,526,45,Jade Zimerman,22.0,Rockville MD,1:00:52,9:13,57:13,45,86,57:13
+526,527,2431,Deborah Sheperd,10.0,Hughesville MD,1:02:21,9:13,57:14,5,15,57:14
+527,528,1627,Joan Kubeluis,39.0,Rockville MD,58:48:00,9:13,57:15,127,247,57:15
+528,529,2257,Charisse Reiner,42.0,Potomac MD,1:00:55,9:13,57:16,88,173,57:16
+529,530,1269,Sandra Grance,25.0,Alexandria VA,1:00:29,9:14,57:17,74,142,57:17
+530,531,1770,Kirsten Lyke,39.0,Washington DC,1:02:25,9:14,57:18,128,247,57:18
+531,532,2846,Cindy Zeldin,29.0,North Bethesda,M 1:01:09,9:14,57:20,75,142,57:20
+532,533,1086,Sharon Fein,44.0,Potomac MD,1:01:05,9:14,57:21,89,173,57:21
+533,534,2136,Shannon Perry,31.0,Rockville MD,1:00:53,9:15,57:23,82,173,57:23
+534,535,1698,Maria Lempicki,37.0,Gaithersburg MD,1:00:30,9:15,57:23,129,247,57:23
+535,536,2005,Tara Nasvaderani,28.0,Rockville MD,1:00:53,9:15,57:24,76,142,57:24
+536,537,2692,Robin Vestal,41.0,Laurel MD,1:00:58,9:15,57:26,90,173,57:26
+537,538,220,Megan Torpey,30.0,Bethesda MD,1:00:44,9:15,57:26,83,173,57:26
+538,539,1402,Dawn Horne,30.0,Washington DC,1:00:56,9:15,57:28,84,173,57:28
+539,540,884,Diana Daca,31.0,Germantown MD,58:56:00,9:16,57:29,85,173,57:29
+540,541,3294,Anna Early,28.0,Leesburg VA,1:00:54,9:16,57:30,77,142,57:30
+541,542,2445,Gabriela Siegel,16.0,Rockville MD,1:01:12,9:16,57:30,19,26,57:30
+542,543,1504,Jaclyn Kachinski,23.0,Arlington VA,1:00:44,9:17,57:37,46,86,57:37
+543,544,660,Carol Braun,42.0,Rockville MD,1:01:05,9:17,57:38,91,173,57:38
+544,545,1923,Alexandra Miles,14.0,Clarksburg MD,1:01:28,9:17,57:38,6,15,57:38
+545,546,2508,Sok Sokun,22.0,Abingdon MD,1:01:41,9:17,57:39,47,86,57:39
+546,547,2608,Denise Taylor,39.0,Rockville MD,1:00:57,9:18,57:43,130,247,57:43
+547,548,2432,Cindy Sherman,48.0,Washington DC,1:00:58,9:18,57:44,52,110,57:44
+548,549,748,Linda Carter,64.0,Potomac MD,1:01:03,9:18,57:45,10,19,57:45
+549,550,2855,Annamaria Zimmerman,55.0,Gaithersburg MD,1:00:47,9:18,57:46,8,28,57:46
+550,551,2463,Catherine Sims,48.0,Gaithersburg MD,1:03:08,9:19,57:49,53,110,57:49
+551,552,2866,Caryn Klein,15.0,Rockville MD,1:01:17,9:19,57:49,20,26,57:49
+552,553,1363,Pamela Hendershot,46.0,Brookeville MD,1:01:58,9:19,57:51,54,110,57:51
+553,554,511,Lyda Astrove,46.0,Rockville MD,1:02:54,9:19,57:51,55,110,57:51
+554,555,1564,Amy Kiger,34.0,Silver Spring M,D 1:01:39,9:20,57:54,86,173,57:54
+555,556,2246,Suzanne Redding,38.0,Frederick MD,1:01:47,9:20,57:54,131,247,57:54
+556,557,2209,Ellen Quinn,52.0,Washington DC,1:02:58,9:20,57:55,23,76,57:55
+557,558,2573,Elma Stuart,53.0,Kensington MD,1:02:58,9:20,57:56,24,76,57:56
+558,559,3029,Amy Krupka,32.0,Olney MD,1:03:00,9:20,57:57,87,173,57:57
+559,560,526,Theresa Avila Curtis,36.0,Silver Spring M,D 1:02:02,9:21,58:01,132,247,58:01
+560,561,2360,Patricia Sanders,36.0,Germantown MD,1:01:46,9:21,58:01,133,247,58:01
+561,562,653,Linda Brady,52.0,Rockville MD,1:01:48,9:21,58:05,25,76,58:05
+562,563,1004,Lily Dubin,15.0,Potomac MD,1:03:14,9:21,58:06,21,26,58:06
+563,564,1447,Jessica Iwamoto,21.0,Falls Church VA,1:01:45,9:22,58:07,48,86,58:07
+564,565,1603,Emily Knuth,14.0,Gaithersburg MD,1:03:25,9:22,58:08,7,15,58:08
+565,566,2425,Jennifer Shea,55.0,Bethesda MD,1:01:55,9:22,58:08,9,28,58:08
+566,567,2911,Mary Burgess,43.0,Rockville MD,1:01:47,9:22,58:09,92,173,58:09
+567,568,2729,Claudia Waters,42.0,Lake Ridge VA,1:01:30,9:22,58:10,93,173,58:10
+568,569,679,Scottie Brown,31.0,Rockville MD,1:01:51,9:22,58:10,88,173,58:10
+569,570,2055,Jessie Oconnor,14.0,Gaithersburg MD,1:03:27,9:22,58:10,8,15,58:10
+570,571,2892,Barbara Heath,33.0,Reston VA,1:01:40,9:22,58:12,89,173,58:12
+571,572,1373,Carrie Hibbard,42.0,Gaithersburg MD,1:01:26,9:22,58:12,94,173,58:12
+572,573,1312,Seble Hailu,38.0,Alexandria VA,1:01:31,9:23,58:13,134,247,58:13
+573,574,569,Sharon Beall,48.0,Germantown MD,1:01:53,9:23,58:17,56,110,58:17
+574,575,1817,Karin Marshall,35.0,Rockville MD,1:01:29,9:23,58:17,135,247,58:17
+575,576,2603,Lian Tay,24.0,West Windsor NJ,1:01:47,9:23,58:18,49,86,58:18
+576,577,1321,Theresa Han,33.0,North Potomac M,D 1:01:20,9:23,58:18,90,173,58:18
+577,578,2224,Kavitha Ramaswamy,23.0,Rockville MD,1:01:47,9:23,58:19,50,86,58:19
+578,579,1739,Kristen Locatelli,26.0,Gaithersburg MD,1:01:29,9:23,58:19,78,142,58:19
+579,580,838,Su Cha Connolly,45.0,Derwood MD,1:01:25,9:24,58:19,57,110,58:19
+580,581,504,Suzanne Arteaga,27.0,Arlington VA,1:02:05,9:24,58:20,79,142,58:20
+581,582,2580,Asha Subramanian,33.0,Kensington MD,1:02:18,9:24,58:20,91,173,58:20
+582,583,1659,Kristen Latham,25.0,Gaithersburg MD,1:01:31,9:24,58:20,80,142,58:20
+583,584,2056,Maggie Oconnor,12.0,Gaithersburg MD,1:03:38,9:24,58:21,9,15,58:21
+584,585,2832,Susan Youll,39.0,Bethesda MD,1:01:40,9:24,58:23,136,247,58:23
+585,586,1383,Ann Hoffman,50.0,Rockville MD,1:01:28,9:24,58:25,26,76,58:25
+586,587,2549,Natacha Steimer,35.0,Bethesda MD,1:01:45,9:25,58:26,137,247,58:26
+587,588,681,Kathryn Brown,50.0,Rockville MD,1:02:13,9:25,58:26,27,76,58:26
+588,589,2816,Brooke Wright,27.0,Bethesda MD,1:02:01,9:25,58:27,81,142,58:27
+589,590,871,Reiko Crowe,52.0,Woodbine MD,1:02:24,9:25,58:27,28,76,58:27
+590,591,539,Katie Baick,26.0,Columbia MD,1:01:32,9:25,58:28,82,142,58:28
+591,592,855,Beth Core,42.0,Potomac MD,1:02:17,9:25,58:28,95,173,58:28
+592,593,849,Laura Cooper,44.0,Alexandria VA,1:01:43,9:25,58:28,96,173,58:28
+593,594,1407,Dawn Hough,39.0,Derwood MD,1:01:44,9:25,58:28,138,247,58:28
+594,595,2928,Dayna Krakower,22.0,Rockville MD,1:01:45,9:25,58:31,51,86,58:31
+595,596,2181,Sarah Powell,47.0,Greenbelt MD,1:03:44,9:26,58:32,58,110,58:32
+596,597,2733,Caroline Waugaman,40.0,Centreville VA,1:01:44,9:26,58:33,97,173,58:33
+597,598,574,Susan Beatty,25.0,College Park MD,1:02:28,9:26,58:33,83,142,58:33
+598,599,2545,Hilleary Stecker,35.0,Arlington VA,1:02:15,9:26,58:35,139,247,58:35
+599,600,1112,Regina Flagg,45.0,Silver Spring M,D 1:01:47,9:27,58:38,59,110,58:38
+600,601,1838,Sheila Mathew,33.0,Poolesville MD,1:03:44,9:27,58:39,92,173,58:39
+601,602,2506,Deborah Sokobin,43.0,Rockville MD,1:02:42,9:27,58:40,98,173,58:40
+602,603,960,Carolyn Dimitri,46.0,Silver Spring M,D 1:02:42,9:27,58:41,60,110,58:41
+603,604,563,Caroline Battista,23.0,Arlington VA,1:02:16,9:27,58:42,52,86,58:42
+604,605,2604,Cynthia Taylor,43.0,Frederick MD,1:01:59,9:27,58:42,99,173,58:42
+605,606,1369,Holly Hesen,39.0,Glenwood MD,1:02:29,9:27,58:43,140,247,58:43
+606,607,992,Dana Dosik,40.0,Silver Spring M,D   59:54,9:27,58:44,100,173,58:44
+607,608,1334,Kate Harback,28.0,Bethesda MD,1:03:54,9:28,58:47,84,142,58:47
+608,609,456,Moji Akinnibi,43.0,Gaithersburg MD,1:02:46,9:28,58:48,101,173,58:48
+609,610,2303,Pamela Rose,37.0,Gaithersburg MD,1:02:42,9:29,58:51,141,247,58:51
+610,611,1670,Jacquelin Le,39.0,Rockville MD,1:01:58,9:29,58:51,142,247,58:51
+611,612,2483,Alyssa Smith,33.0,Gaithersburg MD,1:02:42,9:29,58:51,93,173,58:51
+612,613,2881,Jodi Steagal,40.0,Ellicott City M,D 1:02:40,9:29,58:53,102,173,58:53
+613,614,1968,Shantha Moses,44.0,Silver Spring M,D 1:03:59,9:29,58:54,103,173,58:54
+614,615,2750,Jill Weiner,40.0,Rockville MD,1:02:53,9:29,58:55,104,173,58:55
+615,616,2723,Debbie Warshaw,39.0,N. Potomac MD,1:02:53,9:29,58:55,143,247,58:55
+616,617,3203,Tierney King,36.0,Comus MD,1:02:52,9:29,58:55,144,247,58:55
+617,618,1949,Carolyn Montrose,36.0,Chevy Chase MD,1:02:20,9:30,58:59,145,247,58:59
+618,619,1181,Jody Gamber,43.0,Annandale VA,1:02:48,9:30,58:59,105,173,58:59
+619,620,1040,Kristin Ellis,40.0,Chevy Chase MD,1:02:06,9:30,58:59,106,173,58:59
+620,621,1211,Maureen George,50.0,Bethesda MD,1:02:09,9:30,58:59,29,76,58:59
+621,622,1265,Tina Gough,38.0,Frederick MD,1:00:16,9:30,59:00,146,247,59:00
+622,623,728,Angela Carey,32.0,Rockville MD,1:02:17,9:30,59:00,94,173,59:00
+623,624,2606,Jane Taylor,46.0,Silver Spring M,D 1:02:49,9:30,59:00,61,110,59:00
+624,625,581,Melinda Berge,61.0,Annapolis MD,1:00:02,9:30,59:00,11,19,59:00
+625,626,157,Frances Gipson,52.0,Gaithersburg MD,1:02:46,9:30,59:00,30,76,59:00
+626,627,2250,Rena Reese,39.0,Potomac MD,1:02:47,9:30,59:01,147,247,59:01
+627,628,2020,Pam Newbern,45.0,Fort Meade MD,1:03:02,9:30,59:01,62,110,59:01
+628,629,2089,Jennifer Pak,30.0,Silver Spring M,D 1:02:26,9:30,59:02,95,173,59:02
+629,630,1012,Eden Durbin,40.0,Kensington MD,1:02:40,9:31,59:05,107,173,59:05
+630,631,680,Marlo Brown,30.0,Silver Spring M,D 1:04:11,9:31,59:05,96,173,59:05
+631,632,3205,Jody Gan,40.0,Kensington MD,1:02:39,9:31,59:05,108,173,59:05
+632,633,2482,Carolyn Smith,44.0,Kensington MD,1:02:40,9:31,59:07,109,173,59:07
+633,634,1215,Dee Getachew,39.0,Alexandria VA,1:02:26,9:31,59:08,148,247,59:08
+634,635,1119,Beth Floyd,45.0,Rockville MD,1:02:17,9:31,59:08,63,110,59:08
+635,636,912,Ann Dayton,37.0,New Market MD,1:04:27,9:31,59:08,149,247,59:08
+636,637,2494,Erica Smith,30.0,Derwood MD,1:04:22,9:32,59:10,97,173,59:10
+637,638,2319,Lisa Rowell,30.0,Gaithersburg MD,1:04:22,9:32,59:10,98,173,59:10
+638,639,1267,Beth Goulston,33.0,Arlington VA,1:03:12,9:32,59:11,99,173,59:11
+639,640,549,Sara Barakat,46.0,Potomac MD,1:02:22,9:32,59:11,64,110,59:11
+640,641,1986,Susan Murphy,42.0,Welcome MD,1:04:20,9:32,59:12,110,173,59:12
+641,642,1586,Malia Kishore,40.0,Great Falls VA,1:02:37,9:32,59:13,111,173,59:13
+642,643,1985,Kristen Murphy,32.0,Alexandria VA,1:02:56,9:32,59:13,100,173,59:13
+643,644,1244,Marge Gold,51.0,Gaithersburg MD,1:02:35,9:32,59:14,31,76,59:14
+644,645,1195,Becky Gatwood,54.0,Silver Spring M,D 1:02:37,9:32,59:14,32,76,59:14
+645,646,817,Risa Cohen,31.0,Germantown MD,1:02:38,9:32,59:14,101,173,59:14
+646,647,2087,Kathy Pagana,54.0,Kensington MD,1:02:52,9:33,59:15,33,76,59:15
+647,648,2160,Anita Pinto,27.0,Catharpin VA,1:02:26,9:33,59:16,85,142,59:16
+648,649,1270,Becky Grandin,25.0,Rockville MD,1:04:34,9:33,59:18,86,142,59:18
+649,650,2455,Shauna Simon,51.0,Bethesda MD,1:00:31,9:33,59:18,34,76,59:18
+650,651,2980,Rebecca Neff,40.0,Gaithersburg MD,1:03:17,9:33,59:18,112,173,59:18
+651,652,2981,Paula Mckeon,38.0,Gaithersburg MD,1:03:17,9:33,59:19,150,247,59:19
+652,653,2370,Sharon Savage,37.0,Potomac MD,1:03:23,9:33,59:21,151,247,59:21
+653,654,2329,Adele Ruger,28.0,Bethesda MD,1:03:21,9:33,59:21,87,142,59:21
+654,655,843,Stacy Cook,27.0,Bethesda MD,1:02:40,9:34,59:22,88,142,59:22
+655,656,694,Lois Buitano,47.0,Potomac MD,1:03:18,9:34,59:22,65,110,59:22
+656,657,1540,Christy Keller,35.0,Silver Spring M,D 1:02:34,9:34,59:23,152,247,59:23
+657,658,2182,Christy Powell,37.0,Rockville MD,1:02:35,9:34,59:23,153,247,59:23
+658,659,496,Julie Arehart,26.0,Arlington VA,1:02:57,9:34,59:24,89,142,59:24
+659,660,2524,Sara Spears,24.0,Baltimore MD,1:02:58,9:34,59:25,53,86,59:25
+660,661,1809,Maria Marcolin Nola,35.0,Poolesville MD,1:03:01,9:34,59:26,154,247,59:26
+661,662,2521,Kathleen Spain,28.0,Silver Spring M,D 1:03:05,9:34,59:26,90,142,59:26
+662,663,1808,Carla Marcolin,44.0,Rockville MD,1:03:03,9:35,59:28,113,173,59:28
+663,664,661,Marisa Braun,15.0,Rockville MD,1:02:56,9:35,59:29,22,26,59:29
+664,665,440,Jessica Adams,36.0,Silver Spring M,D 1:03:02,9:35,59:31,155,247,59:31
+665,666,2440,Linda Shoemaker,39.0,Rockville MD,1:03:04,9:35,59:32,156,247,59:32
+666,667,2883,Lauren Crow,20.0,Olney MD,1:02:54,9:35,59:33,54,86,59:33
+667,668,2879,Michelle Braun,42.0,Gaithersburg MD,1:03:26,9:35,59:33,114,173,59:33
+668,669,1154,Rosemary Frey,24.0,Silver Spring M,D 1:03:19,9:36,59:34,55,86,59:34
+669,670,2043,Susan Nyhus,23.0,Silver Spring M,D 1:03:19,9:36,59:34,56,86,59:34
+670,671,2532,Barbara Spittle,35.0,Laplata MD,1:04:44,9:36,59:35,157,247,59:35
+671,672,2542,Jennifer Stange,26.0,Rockville MD,1:03:21,9:36,59:35,91,142,59:35
+672,673,2687,Kelly Ventura,29.0,Rockville MD,1:03:33,9:36,59:36,92,142,59:36
+673,674,2614,Cozette Teasley,38.0,Brooklyn MD,1:03:23,9:36,59:37,158,247,59:37
+674,675,1549,Katherine Kemper-Dean,43.0,Silver Spring M,D 1:03:38,9:36,59:38,115,173,59:38
+675,676,189,Martha Nguyen,28.0,Bethesda MD,1:02:43,9:36,59:39,93,142,59:39
+676,677,1645,Robin Lang,33.0,Bethesda MD,1:03:38,9:37,59:40,102,173,59:40
+677,678,3220,Linda Wilson,50.0,Glendale MD,1:03:28,9:37,59:41,35,76,59:41
+678,679,1391,Sunanda Holmes,39.0,Bethesda MD,1:03:22,9:37,59:43,159,247,59:43
+679,680,1644,Tanya Landry,46.0,Potomac MD,1:00:57,9:37,59:43,66,110,59:43
+680,681,2265,Laurie Reyes,32.0,Frederick MD,1:02:57,9:37,59:43,103,173,59:43
+681,682,636,Yuen Boon,27.0,Gaithersburg MD,1:02:49,9:37,59:44,94,142,59:44
+682,683,2325,Lauren Rubin,31.0,Unknown .,1:03:45,9:38,59:47,104,173,59:47
+683,684,2944,Jodi Reff,42.0,Rockville MD,1:01:36,9:38,59:49,116,173,59:49
+684,685,639,Candy Boparai,32.0,Silver Spring M,D 1:03:00,9:38,59:50,105,173,59:50
+685,686,2559,Susan Stillman,42.0,Potomac MD,1:03:28,9:39,59:53,117,173,59:53
+686,687,1618,Kristin Krause,37.0,Potomac MD,1:03:28,9:39,59:53,160,247,59:53
+687,688,1199,Robyn Gault,48.0,Gaithersburg MD,1:03:16,9:39,59:54,67,110,59:54
+688,689,119,Dawn Brandley,35.0,Springfield VA,1:03:38,9:39,59:54,161,247,59:54
+689,690,2968,Juanita Avila,32.0,Arlington VA,1:03:03,9:39,59:55,106,173,59:55
+690,691,2696,Tammy Villines,29.0,Rockville MD,1:03:43,9:39,59:55,95,142,59:55
+691,692,2982,Barbara Attadi,63.0,Rockville MD,1:03:25,9:39,59:56,12,19,59:56
+692,693,2783,Tiffanny Williams,37.0,Silver Spring M,D 1:03:58,9:39,59:56,162,247,59:56
+693,694,1544,Marlene Kelly,49.0,Gaithersburg MD,1:01:18,9:39,59:57,68,110,59:57
+694,695,995,Betty Dowdy,36.0,Gaithersburg MD,1:03:49,9:39,59:57,163,247,59:57
+695,696,1380,Jodie Hofacre,35.0,Arlington VA,1:01:07,9:40,59:59,164,247,59:59
+696,697,637,Zhi Boon,23.0,Gaithersburg MD,1:03:03,9:40,59:59,57,86,59:59
+697,698,1626,Suzanne Krudys,43.0,Rockville MD,1:03:03,9:40,00:00,118,173,00:00
+698,699,691,Melissa Bryant,36.0,Kensington MD,1:03:04,9:40,00:00,165,247,00:00
+699,700,2706,Lesley Wagner,39.0,Rockville MD,1:05:06,9:40,00:00,166,247,00:00
+700,701,1010,Janet Dunlop,52.0,Potomac MD,1:04:01,9:40,00:02,36,76,00:02
+701,702,924,Arlis Dellapa,39.0,Rockville MD,1:04:01,9:40,00:02,167,247,00:02
+702,703,1020,Cathy Eberhardt,44.0,Potomac MD,1:04:01,9:40,00:03,119,173,00:03
+703,704,786,Allison Chin,22.0,Silver Spring M,D 1:03:20,9:40,00:04,58,86,00:04
+704,705,1726,Arminda Lima,1.0,Silver Spring M,D 1:03:47,9:41,00:07,10,15,00:07
+705,706,3333,Kristin Fleschner,24.0,Washington DC,1:03:23,9:41,00:09,59,86,00:09
+706,707,2341,Holly Ryan,36.0,Gaithersburg MD,1:03:24,9:41,00:09,168,247,00:09
+707,708,847,Jackie Cooper,43.0,Lutherville MD,1:03:24,9:41,00:11,120,173,00:11
+708,709,2356,Debra Saltz,38.0,Ellicott City M,D 1:03:30,9:42,00:11,169,247,00:11
+709,710,2473,Deborah Skelton,51.0,Capitol Heights,1:04:11,9:42,00:14,37,76,00:14
+710,711,1989,Chrissy Murphy,23.0,Woodbine MD,1:03:56,9:42,00:16,60,86,00:16
+711,712,582,Bonnie Berger,51.0,Olney MD,1:05:21,9:42,00:16,38,76,00:16
+712,713,1474,Terri Jensen,44.0,Clarksburg MD,1:04:08,9:43,00:18,121,173,00:18
+713,714,192,Patty Oakley,41.0,Gaithersburg MD,1:03:37,9:43,00:19,122,173,00:19
+714,715,1384,Lara Hogston,37.0,Silver Spring M,D 1:04:18,9:43,00:19,170,247,00:19
+715,716,3273,Mary Slotkowski,36.0,Rockville MD,1:04:19,9:43,00:20,171,247,00:20
+716,717,1735,Diane Litofsky,40.0,Rockville MD,1:03:31,9:44,00:25,123,173,00:25
+717,718,2710,Rebecca Walker,34.0,Potomac MD,1:03:33,9:44,00:26,107,173,00:26
+718,719,182,Sarah Long,32.0,Clarksburg MD,1:01:56,9:44,00:27,108,173,00:27
+719,720,2874,Ann Crim,46.0,Gaithersburg MD,1:04:17,9:44,00:29,69,110,00:29
+720,721,1692,Gina Leib,33.0,Potomac MD,1:07:26,9:45,00:30,109,173,00:30
+721,722,2708,Heather Walenga,26.0,Silver Spring M,D 1:04:24,9:45,00:30,96,142,00:30
+722,723,877,Molly Curran,21.0,Laytonsville MD,1:04:14,9:45,00:33,61,86,00:33
+723,724,2671,Amy Ullman,33.0,Potomac MD,1:07:32,9:45,00:35,110,173,00:35
+724,725,3208,Joan Tapocik,58.0,Germantown MD,1:04:12,9:46,00:36,10,28,00:36
+725,726,236,Sandra Lemaire,44.0,Silver Spring M,D 1:04:38,9:46,00:36,124,173,00:36
+726,727,935,Diana Desantolo,33.0,Gaithersburg MD,1:04:13,9:46,00:37,111,173,00:37
+727,728,1536,Karen Kautz,62.0,Silver Spring M,D 1:04:15,9:46,00:41,13,19,00:41
+728,729,2596,Kate Talbot,37.0,Washington DC,1:04:22,9:47,00:44,172,247,00:44
+729,730,586,Elisa Berkowitz,34.0,Bethesda MD,1:04:23,9:47,00:45,112,173,00:45
+730,731,143,Elena Dove,32.0,Laytonsville MD,1:04:01,9:47,00:47,113,173,00:47
+731,732,2476,Lisa Sloane,33.0,Ss MD,1:04:43,9:48,00:51,114,173,00:51
+732,733,501,Sarah Arnett,32.0,Germantown MD,1:04:29,9:49,00:56,115,173,00:56
+733,734,207,Karen Smith,48.0,Rockville MD,1:05:04,9:49,00:57,70,110,00:57
+734,735,2531,Christina Spiezio,41.0,Silver Spring M,D 1:06:12,9:49,01:00,125,173,01:00
+735,736,1108,Dianne Fisher,51.0,Silver Spring M,D 1:06:14,9:49,01:00,39,76,01:00
+736,737,1978,Candace Mulcahy,29.0,Rockville MD,1:04:18,9:49,01:01,97,142,01:01
+737,738,567,Judi Baxter,43.0,Gaithersburg MD,1:06:13,9:50,01:02,126,173,01:02
+738,739,1251,Anne Golla,36.0,Washington DC,1:06:11,9:50,01:04,173,247,01:04
+739,740,2703,Lynda Vonbargen,49.0,Brookeville MD,1:04:58,9:50,01:05,71,110,01:05
+740,741,1560,Tina Kiang,30.0,Rockville MD,1:04:39,9:50,01:06,116,173,01:06
+741,742,1878,Jackie Mcguigan,37.0,Rockville MD,1:02:40,9:51,01:07,174,247,01:07
+742,743,853,Charlotte Corbett,46.0,Potomac MD,1:04:37,9:51,01:07,72,110,01:07
+743,744,3004,Maria Nickerson,51.0,Winter Park FL,1:05:13,9:51,01:07,40,76,01:07
+744,745,1550,Susan Kendzie,49.0,Kensington MD,1:04:46,9:51,01:10,73,110,01:10
+745,746,2470,Heather Sine,38.0,Washington DC,1:05:19,9:51,01:10,175,247,01:10
+746,747,1368,Robin Hershey,47.0,Potomac MD,1:04:41,9:51,01:12,74,110,01:12
+747,748,1488,Mary Johnston,40.0,Kensington MD,1:04:46,9:51,01:12,127,173,01:12
+748,749,690,Gabrielle Bryant,29.0,Rockville MD,1:06:23,9:52,01:14,98,142,01:14
+749,750,2232,Julie Rasicot,42.0,Silver Spring M,D 1:06:27,9:52,01:14,128,173,01:14
+750,751,763,Katie Chambers,25.0,Annapolis MD,1:04:35,9:52,01:16,99,142,01:16
+751,752,3005,Joan Nickerson,47.0,Gibsonia PA,1:05:23,9:52,01:17,75,110,01:17
+752,753,1918,Jolly Mesepam,42.0,Beltsville MD,1:02:30,9:52,01:18,129,173,01:18
+753,754,2243,Lee Read,33.0,Silver Spring M,D 1:04:54,9:53,01:23,117,173,01:23
+754,755,1033,Rona Eisen,53.0,Bethesda MD,1:06:34,9:53,01:24,41,76,01:24
+755,756,2406,Lorena Segura,36.0,Rockville MD,1:06:35,9:53,01:24,176,247,01:24
+756,757,546,Kim Band,39.0,Potomac MD,1:06:29,9:54,01:25,177,247,01:25
+757,758,560,Cindy Baruch,39.0,Gaithersburg MD,1:06:38,9:54,01:26,178,247,01:26
+758,759,738,Laura Carpenter,34.0,Hagerstown MD,1:06:33,9:54,01:26,118,173,01:26
+759,760,2306,Rebecca Rosenberg,38.0,Kensington MD,1:06:40,9:54,01:26,179,247,01:26
+760,761,550,Shari Barash,37.0,Rockville MD,1:05:26,9:54,01:30,180,247,01:30
+761,762,1713,Samantha Lewis,37.0,Herndon VA,1:05:27,9:54,01:31,181,247,01:31
+762,763,1361,Julieta Heldenbrand,17.0,Silver Spring M,D 1:05:14,9:55,01:32,23,26,01:32
+763,764,469,Katie Ambrose,24.0,Olney MD,1:05:18,9:55,01:33,62,86,01:33
+764,765,734,Sheila Carmines,39.0,Silver Spring M,D 1:05:10,9:55,01:34,182,247,01:34
+765,766,859,Jaclyn Coulter,24.0,Greenbelt MD,1:06:41,9:55,01:35,63,86,01:35
+766,767,898,Tamara Darvish,42.0,Potomac MD,1:02:39,9:55,01:35,130,173,01:35
+767,768,2655,Maria Triantis,53.0,Silver Spring M,D 1:05:36,9:55,01:36,42,76,01:36
+768,769,2597,Kathryn Tam,61.0,Potomac MD,1:05:34,9:55,01:37,14,19,01:37
+769,770,2145,Phuong Pham,45.0,Boyds MD,1:06:43,9:55,01:38,76,110,01:38
+770,771,2635,Patricia Thornton,52.0,Brookeville MD,1:05:36,9:56,01:40,43,76,01:40
+771,772,2925,Linda Spitzer,53.0,Brookeville MD,1:06:41,9:56,01:40,44,76,01:40
+772,773,2044,Mary O'connell,25.0,Rockville MD,1:06:44,9:56,01:41,100,142,01:41
+773,774,1356,Judy Hearst,53.0,Laytonsville MD,1:06:41,9:56,01:41,45,76,01:41
+774,775,2840,Jean Zachariasiewi,27.0,Washington DC,1:05:16,9:57,01:50,101,142,01:50
+775,776,2146,Thien-Kim Pham,43.0,Silver Spring M,D 1:06:58,9:58,01:52,131,173,01:52
+776,777,1870,Kate Mcduffie,37.0,Wheaton MD,1:07:06,9:58,01:56,183,247,01:56
+777,778,2863,Laura Zweig,32.0,Washington DC,1:05:20,9:59,01:58,119,173,01:58
+778,779,2162,Jennifer Piorko,33.0,Damascus MD,1:05:20,9:59,01:59,120,173,01:59
+779,780,1097,Rosie Ferraro,34.0,Rockville MD,1:07:10,10:00,02:04,121,173,02:04
+780,781,2554,Linda Stewart,48.0,Burke VA,1:06:03,10:00,02:06,77,110,02:06
+781,782,2251,Catherine Rehm,48.0,Gaithersburg MD,1:05:42,10:00,02:08,78,110,02:08
+782,783,1614,Bari Kotler,40.0,Germantown MD,1:07:10,10:00,02:09,132,173,02:09
+783,784,739,Deborah Carr,43.0,Bethesda MD,1:05:52,10:01,02:12,133,173,02:12
+784,785,2344,Sandra Rye,37.0,Pomfret MD,1:07:25,10:02,02:17,184,247,02:17
+785,786,3248,Kimberly Isreal,46.0,Burtonsville MD,1:03:24,10:03,02:22,79,110,02:22
+786,787,2814,Megan Woolheater,24.0,Gaithersburg MD,1:06:19,10:03,02:24,64,86,02:24
+787,788,3350,Sara Moothart,28.0,Rockville MD,1:11:45,10:03,02:25,102,142,02:25
+788,789,1203,Margery Gehan,35.0,Gaithersburg MD,1:07:33,10:03,02:25,185,247,02:25
+789,790,1933,Jennifer Millstone,39.0,Rockville MD,1:07:34,10:03,02:26,186,247,02:26
+790,791,2794,Kathryn Winsberg,54.0,Bethesda MD,1:07:39,10:03,02:26,46,76,02:26
+791,792,535,Alethea Bacos,43.0,Rockville MD,1:07:34,10:03,02:27,134,173,02:27
+792,793,752,Mary Rose Catena,46.0,Washington DC,1:06:24,10:04,02:33,80,110,02:33
+793,794,2594,Kimberly Tait,40.0,Boyds MD,1:06:32,10:05,02:38,135,173,02:38
+794,795,1000,Ellen Dragotto,45.0,Washington DC,1:06:33,10:06,02:43,81,110,02:43
+795,796,1607,Yanina Kogan,28.0,Wheaton MD,1:08:06,10:06,02:46,103,142,02:46
+796,797,766,Ho-Yan Chan,27.0,Washington DC,1:06:42,10:06,02:46,104,142,02:46
+797,798,2279,Darcey Rigdon,29.0,Falls Church VA,1:07:49,10:07,02:47,105,142,02:47
+798,799,1291,Chloe Gross,37.0,Washington DC,1:06:43,10:07,02:47,187,247,02:47
+799,800,1587,Lynn Kitterman,39.0,Bowie MD,1:06:15,10:07,02:50,188,247,02:50
+800,801,1288,Kelly Grinham,26.0,Germantown MD,1:08:06,10:08,02:54,106,142,02:54
+801,802,863,Kirstin Crane,37.0,Gaithersburg MD,1:06:15,10:08,02:54,189,247,02:54
+802,803,2683,Carla Vanbeek,36.0,Bethesda MD,1:06:15,10:08,02:54,190,247,02:54
+803,804,2358,Theresa Sammarco,38.0,N. Bethesda MD,1:06:37,10:08,02:57,191,247,02:57
+804,805,1271,Cheryl Grandinetti,41.0,Clarksburg MD,1:06:40,10:08,02:57,136,173,02:57
+805,806,3026,Stacey Theodorou,35.0,Arlington VA,1:06:33,10:09,03:00,192,247,03:00
+806,807,1063,Karylsue Evans,46.0,Gaithersburg MD,1:07:03,10:09,03:00,82,110,03:00
+807,808,483,Patty Ahrens,24.0,Baltimore MD,1:06:32,10:09,03:00,65,86,03:00
+808,809,432,Ashley Peppel,10.0,Germantown MD,1:06:44,10:09,03:01,11,15,03:01
+809,810,2382,Elyse Schraeder,32.0,Baltimore MD,1:06:07,10:09,03:03,122,173,03:03
+810,811,2565,Young Strasser,38.0,Potomac MD,1:07:01,10:09,03:03,193,247,03:03
+811,812,821,Leslie Cohen,38.0,North Potomac M,D 1:06:07,10:09,03:03,194,247,03:03
+812,813,1066,Liz Everson,32.0,Arlington VA,1:08:18,10:09,03:04,123,173,03:04
+813,814,1103,Laura Fingerhood,38.0,Potomac MD,1:08:07,10:10,03:06,195,247,03:06
+814,815,2383,Elizabeth Schrayer,45.0,Rockville MD,1:06:42,10:10,03:06,83,110,03:06
+815,816,2424,Judy Sharpe,50.0,Rio Rancho NM,1:04:28,10:10,03:06,47,76,03:06
+816,817,1470,Kathleen Jeffries,50.0,Falls Church VA,1:08:26,10:10,03:10,48,76,03:10
+817,818,722,Michele Canzoneri,38.0,Frederick MD,1:07:00,10:11,03:12,196,247,03:12
+818,819,1946,Lisa Moeller,43.0,Gaithersburg MD,1:06:31,10:11,03:16,137,173,03:16
+819,820,1029,Elisabeth Edwards,23.0,Arlington VA,1:08:29,10:12,03:19,66,86,03:19
+820,821,1874,Tracy Mcgillivary,48.0,Bethesda MD,1:06:50,10:12,03:19,84,110,03:19
+821,822,668,Lisa Briscoe,41.0,Rockville MD,1:07:05,10:13,03:25,138,173,03:25
+822,823,2194,Jessica Prorok,30.0,Olney MD,1:07:20,10:13,03:29,124,173,03:29
+823,824,3279,Josephine Bouquet,14.0,Potomac MD,1:07:22,10:14,03:31,12,15,03:31
+824,825,2659,Maida Tryon,58.0,Silver Spring M,D 1:08:38,10:14,03:31,11,28,03:31
+825,826,1178,Meghan Gallardo,27.0,Herndon VA,1:08:50,10:14,03:34,107,142,03:34
+826,827,1083,Monica Faucette,33.0,Silver Spring M,D 1:07:10,10:15,03:36,125,173,03:36
+827,828,1863,Melissa Mccrea,29.0,Baltimore MD,1:07:11,10:15,03:37,108,142,03:37
+828,829,170,Blair Jones,62.0,Washington DC,1:09:00,10:15,03:37,15,19,03:37
+829,830,2930,Jennifer Sheriff,34.0,Ijamsville MD,1:08:50,10:15,03:38,126,173,03:38
+830,831,2045,Mary Ann O'connor,64.0,Reston VA,1:06:49,10:15,03:39,16,19,03:39
+831,832,2675,Amanda Underwood,25.0,Rockville MD,1:08:45,10:15,03:41,109,142,03:41
+832,833,2401,Laurie Scott,32.0,Ashburn VA,1:08:46,10:15,03:41,127,173,03:41
+833,834,1115,Claudia Flatau,38.0,Rockville MD,1:08:46,10:15,03:42,197,247,03:42
+834,835,1934,Masoomeh Mina,33.0,Montgomery Vill,1:04:52,10:16,03:46,128,173,03:46
+835,836,2423,Elyse Sharpe,53.0,Gaithersburg MD,1:05:08,10:16,03:47,49,76,03:47
+836,837,2716,Jennifer Walter,25.0,Gaithersburg MD,1:07:59,10:18,03:56,110,142,03:56
+837,838,3006,Sally Chisholm,44.0,Rockville MD,1:09:03,10:18,03:57,139,173,03:57
+838,839,2435,Doris Shim,28.0,Silver Spring M,D 1:08:03,10:18,03:57,111,142,03:57
+839,840,3277,Laura Willard,26.0,Washington DC,1:09:04,10:18,03:58,112,142,03:58
+840,841,2221,Susan Rail,40.0,Rockville MD,1:09:07,10:19,04:02,140,173,04:02
+841,842,126,Rosie Cassidy,52.0,Rockville MD,1:07:22,10:19,04:02,50,76,04:02
+842,843,1194,Margaret Gates,42.0,Rockville MD,1:05:17,10:19,04:03,141,173,04:03
+843,844,1439,Clare Imholtz,59.0,Beltsville MD,1:09:07,10:19,04:06,12,28,04:06
+844,845,1687,Soon Lee,49.0,Laurel MD,1:07:11,10:19,04:07,85,110,04:07
+845,846,2538,Donna St. George,45.0,North Bethesda,M 1:08:05,10:20,04:07,86,110,04:07
+846,847,890,Betty Dameron,70.0,Fredericksburg,V 1:04:19,10:21,04:13,2,3,04:13
+847,848,3020,Diane Ring,50.0,Bethesda MD,1:07:23,10:21,04:16,51,76,04:16
+848,849,2915,Nicole Melnick,16.0,Bethesda MD,1:07:23,10:21,04:17,24,26,04:17
+849,850,2213,Jennifer Rabin`,36.0,Rockville MD,1:08:17,10:22,04:19,198,247,04:19
+850,851,471,Debby Amsellem,39.0,Rockville MD,1:05:56,10:22,04:24,199,247,04:24
+851,852,1970,Ruth Moss,40.0,Laytonsville MD,1:09:38,10:23,04:27,142,173,04:27
+852,853,227,Amy Westerman,39.0,Amissville VA,1:07:38,10:23,04:28,200,247,04:28
+853,854,1606,Trish Koch,52.0,Silver Spring M,D 1:08:33,10:23,04:29,52,76,04:29
+854,855,450,Michelle Adkins,24.0,Gaithersburg MD,1:07:32,10:23,04:29,67,86,04:29
+855,856,1908,Emily Mellet,28.0,Arlington VA,1:08:38,10:24,04:33,113,142,04:33
+856,857,1876,Lisa Mcgonigal,36.0,Kensington MD,1:09:53,10:24,04:34,201,247,04:34
+857,858,1173,Jennifer Gaies,30.0,Germantown MD,1:09:46,10:24,04:35,129,173,04:35
+858,859,2717,Wanda Walters,55.0,Bethesda MD,1:09:39,10:24,04:38,13,28,04:38
+859,860,2693,Shannon Vetter,34.0,Frederick MD,1:07:50,10:25,04:39,130,173,04:39
+860,861,585,Heidi Berkowitz,39.0,Gaithersburg MD,1:09:50,10:25,04:40,202,247,04:40
+861,862,881,Stacey Cwynar,29.0,Ashburn VA,1:08:46,10:25,04:41,114,142,04:41
+862,863,2389,Melanie Schwabe,37.0,Chevy Chase MD,1:08:47,10:25,04:42,203,247,04:42
+863,864,2143,Barbara Pfarr,46.0,Bowie MD,1:08:32,10:26,04:45,87,110,04:45
+864,865,426,Heather Brown,35.0,Hendersonville,N 1:08:39,10:26,04:45,204,247,04:45
+865,866,2622,Sheila Thibodeau,33.0,Gaithersburg MD,1:08:39,10:26,04:46,131,173,04:46
+866,867,2560,Susie Stockwell,22.0,Arlington VA,1:08:49,10:26,04:48,68,86,04:48
+867,868,2526,Elizabeth Spehalski,22.0,Bethesda MD,1:08:49,10:26,04:48,69,86,04:48
+868,869,2756,Laurie Wenger,38.0,Bethesda MD,1:07:56,10:26,04:49,205,247,04:49
+869,870,2945,Ariel Schumer,22.0,Rockville MD,1:06:37,10:26,04:50,70,86,04:50
+870,871,477,Janice Anderson,59.0,Bethesda MD,1:08:14,10:27,04:51,14,28,04:51
+871,872,2335,Colleen Ruppert,25.0,Baltimore MD,1:10:13,10:27,04:54,115,142,04:54
+872,873,2198,Lissa Provenzo,46.0,Gaithersburg MD,1:08:52,10:28,04:59,88,110,04:59
+873,874,1723,Nathasha Lim,23.0,Silver Spring M,D 1:10:11,10:28,05:02,71,86,05:02
+874,875,2025,Kimberly Nguyen,24.0,Silver Spring M,D 1:10:12,10:28,05:02,72,86,05:02
+875,876,3259,Franfelen Stuean,23.0,Bethesda MD,1:08:43,10:29,05:04,73,86,05:04
+876,877,2509,Pat Solan,59.0,Vienna VA,1:08:57,10:29,05:07,15,28,05:07
+877,878,1818,Kimberly Martin,37.0,Germantown MD,1:10:24,10:30,05:13,206,247,05:13
+878,879,683,Leslie Brown,40.0,Silver Spring M,D 1:10:26,10:30,05:13,143,173,05:13
+879,880,2887,Jessica Wills,33.0,Chevy Chase MD,1:08:29,10:31,05:16,132,173,05:16
+880,881,747,Rebecca Carroll,28.0,Montgomery Vill,1:08:27,10:31,05:16,116,142,05:16
+881,882,2831,Kimberly Yost,30.0,Gaithersburg MD,1:08:28,10:31,05:16,133,173,05:16
+882,883,2767,Gladys White,56.0,Gaithersburg MD,1:09:18,10:31,05:19,16,28,05:19
+883,884,1624,Rhoda Kroeker,46.0,Rockville MD,1:09:04,10:31,05:19,89,110,05:19
+884,885,2817,Lisa Wright,28.0,Silver Spring M,D 1:09:23,10:32,05:22,117,142,05:22
+885,886,2386,Jolisse Schuler,35.0,Derwood MD,1:10:39,10:32,05:23,207,247,05:23
+886,887,2295,Megan Rodham,34.0,Vienna VA,1:08:35,10:32,05:24,134,173,05:24
+887,888,489,Sarah Angus,33.0,Frederick MD,1:08:35,10:32,05:24,135,173,05:24
+888,889,185,Kathleen Mchugh,41.0,Amissville VA,1:08:35,10:32,05:25,144,173,05:25
+889,890,2180,Roseanne Powell,27.0,Clarksburg MD,1:09:21,10:32,05:25,118,142,05:25
+890,891,1082,Desiree Farve,44.0,Gaithersburg MD,1:08:42,10:32,05:26,145,173,05:26
+891,892,2698,Regina Viqueira,14.0,Germantown MD,1:06:36,10:32,05:27,13,15,05:27
+892,893,2702,Gaylin Vogel,31.0,Washington DC,1:09:16,10:32,05:28,136,173,05:28
+893,894,2148,Teresa Phillips,49.0,Montpelier VA,1:09:13,10:33,05:31,90,110,05:31
+894,895,3338,Heather Nathans,37.0,Silver Spring M,D 1:10:45,10:34,05:35,208,247,05:35
+895,896,2070,Amy Ortlieb,46.0,Kensington MD,1:09:18,10:35,05:41,91,110,05:41
+896,897,2296,Nataly Rodriguez,16.0,Silver Spring M,D 1:09:24,10:35,05:42,25,26,05:42
+897,898,2952,Jenni Strabley,28.0,Rockville MD,1:09:26,10:35,05:43,119,142,05:43
+898,899,3314,Kathryn Scaletti,33.0,Frederick MD,1:11:03,10:35,05:44,137,173,05:44
+899,900,2624,Robin Thieme,43.0,Kensington MD,1:09:21,10:35,05:46,146,173,05:46
+900,901,1898,Robyn Mcquillen,23.0,Bethesda MD,1:11:13,10:37,05:54,74,86,05:54
+901,902,2761,Heather Westing,40.0,Rockville MD,1:09:43,10:37,05:55,147,173,05:55
+902,903,3270,Kathy Martin,48.0,Mclean VA,1:07:24,10:37,05:56,92,110,05:56
+903,904,987,Janet Doody,25.0,Germantown MD,1:09:19,10:37,05:57,120,142,05:57
+904,905,1988,Mary Murphy,50.0,Woodbine MD,1:10:03,10:37,05:58,53,76,05:58
+905,906,3268,Diva Peterson,31.0,Bethesda MD,1:11:10,10:38,06:02,138,173,06:02
+906,907,815,Michelle Cohen,36.0,Rockville MD,1:11:35,10:38,06:03,209,247,06:03
+907,908,797,Elizabeth Cissel,24.0,Gaithersburg MD,1:09:26,10:38,06:04,75,86,06:04
+908,909,2880,Jan Branscome,48.0,Germantown MD,1:09:43,10:39,06:09,93,110,06:09
+909,910,1400,Nannette Horan,46.0,Gaithersburg MD,1:09:51,10:39,06:10,94,110,06:10
+910,911,466,Tanya Alteras,33.0,Silver Spring M,D 1:10:06,10:40,06:17,139,173,06:17
+911,912,2821,Elizabeth Wyatt,31.0,Rockville MD,1:09:51,10:40,06:17,140,173,06:17
+912,913,2268,Karla Reznikov,24.0,Derwood MD,1:11:21,10:41,06:19,76,86,06:19
+913,914,1392,Shella Holmes,30.0,Mclean VA,1:09:57,10:41,06:21,141,173,06:21
+914,915,2315,Mary Rouse,57.0,Gaithersburg MD,1:11:31,10:41,06:21,17,28,06:21
+915,916,1045,Marilyn Emery,46.0,Kensington MD,1:10:01,10:42,06:24,95,110,06:24
+916,917,2490,Sarah C Smith,24.0,Adamstown MD,1:11:44,10:42,06:25,77,86,06:25
+917,918,3222,Lauri Schlo,42.0,Ellicott City M,D 1:10:18,10:42,06:27,148,173,06:27
+918,919,530,Vicki Aylor,44.0,Silver Spring M,D 1:10:18,10:42,06:27,149,173,06:27
+919,920,2563,Mary Stone,49.0,My Airy MD,1:11:38,10:42,06:28,96,110,06:28
+920,921,2649,Trudie Toussaint,58.0,Rockville MD,1:11:36,10:43,06:31,18,28,06:31
+921,922,978,Janice Dobson,39.0,Thurmont MD,1:09:48,10:43,06:31,210,247,06:31
+922,923,816,Jaclyn Cohen,26.0,Baltimore MD,1:11:35,10:43,06:33,121,142,06:33
+923,924,1486,Julie Johnson,36.0,Bethesda MD,1:11:56,10:43,06:36,211,247,06:36
+924,925,822,Gail Cohen,43.0,Bethesda MD,1:11:56,10:43,06:36,150,173,06:36
+925,926,704,Rene Butters,24.0,N. Bethesda MD,1:11:52,10:45,06:45,78,86,06:45
+926,927,2612,Miriam Taylor,40.0,Bowie MD,1:11:54,10:45,06:46,151,173,06:46
+927,928,2139,Anthea Perti,43.0,Mclean VA,1:11:54,10:45,06:47,152,173,06:47
+928,929,165,Katherine Hohl,32.0,Adamstown MD,1:10:49,10:45,06:48,142,173,06:48
+929,930,2658,Nancy Truong,27.0,Germantown MD,1:10:57,10:46,06:51,122,142,06:51
+930,931,1672,Jocelyn Leatherwood,30.0,North Potomac M,D 1:11:58,10:46,06:51,143,173,06:51
+931,932,2891,Judity Middleton,50.0,Frederick MD,1:11:58,10:46,06:51,54,76,06:51
+932,933,2571,Darlene Stuart,44.0,Germantown MD,1:10:42,10:46,06:51,153,173,06:51
+933,934,1738,Amelia Lo,23.0,Washington DC,1:12:07,10:47,06:56,79,86,06:56
+934,935,2806,Elaine Wong,26.0,Silver Spring M,D 1:11:00,10:47,06:57,123,142,06:57
+935,936,1469,Evansmore Jean,65.0,Ellicott City M,D 1:12:26,10:48,07:07,3,5,07:07
+936,937,594,Grace Bestland,41.0,Brookeville MD,1:08:27,10:50,07:15,154,173,07:15
+937,938,2342,Doris Ryba,38.0,Washington Grov,1:08:28,10:50,07:16,212,247,07:16
+938,939,2253,Christine Reible-Gray,32.0,Germantown MD,1:12:25,10:50,07:17,144,173,07:17
+939,940,1258,Wendi Gordon,44.0,Laurel MD,1:12:39,10:51,07:22,155,173,07:22
+940,941,1452,Helen Jacobs,56.0,Gaithersburg MD,1:12:44,10:52,07:26,19,28,07:26
+941,942,2904,Rathini Vijayaverl,35.0,Potomac MD,1:12:43,10:52,07:27,213,247,07:27
+942,943,802,Kellie Clelland,36.0,Rockville MD,1:12:32,10:52,07:27,214,247,07:27
+943,944,2353,Cathy Salgado,43.0,Gaithersburg MD,1:12:38,10:52,07:29,156,173,07:29
+944,945,1887,Julie Mclain,32.0,Clarksville MD,1:11:00,10:52,07:29,145,173,07:29
+945,946,3021,Jull Robinson,51.0,Rockville MD,1:11:12,10:52,07:30,55,76,07:30
+946,947,1017,Naomi Dyer,33.0,North Bethesda,M 1:11:12,10:52,07:30,146,173,07:30
+947,948,1551,Rebecca Kennedy,28.0,Bethesda MD,1:11:46,10:54,07:40,124,142,07:40
+948,949,616,Karen Blass,52.0,North Bethesda,M 1:12:56,10:56,07:53,56,76,07:53
+949,950,2223,Ellyn Rainey,34.0,Greenbelt MD,1:11:43,10:56,07:55,147,173,07:55
+950,951,1896,Katelyn Mcnulty,27.0,Washington DC,1:11:53,10:57,07:58,125,142,07:58
+951,952,1629,Lina Kubli,41.0,Germantown MD,1:13:12,10:57,08:00,157,173,08:00
+952,953,2397,Justina Schwemberger,58.0,Rockville MD,1:13:01,10:57,08:01,20,28,08:01
+953,954,1328,Amy Hannum,35.0,Germantown MD,1:13:02,10:57,08:01,215,247,08:01
+954,955,630,Theresa Bohs,35.0,Damascus MD,1:13:02,10:57,08:01,216,247,08:01
+955,956,1893,Emily Mcmanaman,22.0,Gaithersburg MD,1:11:34,10:58,08:04,80,86,08:04
+956,957,2871,Malini Joel,30.0,Olney MD,1:11:47,10:58,08:05,148,173,08:05
+957,958,951,Jacquelin Dietrichson,40.0,Triangle VA,1:09:12,10:58,08:05,158,173,08:05
+958,959,675,Heidi Brodsky,39.0,Bethesda MD,1:12:14,10:59,08:11,217,247,08:11
+959,960,2589,Bernadett Sylvester,35.0,Silver Spring M,D 1:13:18,10:59,08:12,218,247,08:12
+960,961,1686,Sung Lee,45.0,Laurel MD,1:11:24,11:00,08:16,97,110,08:16
+961,962,2890,Lois Dicker,66.0,Wheaton MD,1:13:33,11:00,08:17,4,5,08:17
+962,963,2418,Christie Shahan,24.0,Washington DC,1:13:43,11:01,08:25,81,86,08:25
+963,964,2607,Christina Taylor,29.0,Bowie MD,1:09:35,11:01,08:27,126,142,08:27
+964,965,201,Carla Sabloff,0.0,Mclean VA,1:13:38,11:02,08:29,,,08:29
+965,966,538,Maggie Bahou,35.0,Rockville MD,1:13:43,11:02,08:30,219,247,08:30
+966,967,2776,Valerie Wilder,34.0,Fairfax VA,1:13:50,11:03,08:40,149,173,08:40
+967,968,2935,June Prakash,33.0,Arlington VA,1:13:56,11:04,08:42,150,173,08:42
+968,969,1146,April Freeburn,29.0,Centreville VA,1:14:09,11:06,08:56,127,142,08:56
+969,970,465,Cezarina Alonza,50.0,Germantown MD,1:14:05,11:07,09:03,57,76,09:03
+970,971,2467,Lauren Sinay,25.0,Olney MD,1:14:17,11:09,09:12,128,142,09:12
+971,972,1605,Deborah Kobernick,45.0,N. Bethesda MD,1:12:39,11:09,09:14,98,110,09:14
+972,973,1496,Heather Jordan,40.0,Gaithersburg MD,1:14:29,11:10,09:20,159,173,09:20
+973,974,2791,Renee Winkfield,44.0,Bowie MD,1:14:44,11:11,09:26,160,173,09:26
+974,975,179,Ellie Laumark,54.0,Silver Spring M,D 1:14:27,11:11,09:27,58,76,09:27
+975,976,3293,Deidra Fisher,32.0,Olney MD,1:14:35,11:11,09:27,151,173,09:27
+976,977,769,Ai-Mei Chang,42.0,Bethesda MD,1:13:10,11:12,09:31,161,173,09:31
+977,978,1466,Deborah Jansen,30.0,Washington DC,1:14:39,11:12,09:32,152,173,09:32
+978,979,1730,Jamie Linski,29.0,Washington DC,1:14:39,11:12,09:33,129,142,09:33
+979,980,2843,Susan Rasmussen,,Gaithersburg MD,1:14:51,11:12,09:34,,,09:34
+980,981,2196,Colleen Prorok,58.0,Brookeville MD,1:14:48,11:13,09:41,21,28,09:41
+981,982,971,Virginia Dlamni,35.0,Seabrook MD,1:11:05,11:14,09:44,220,247,09:44
+982,983,1522,Mayookha Kariyawasam,23.0,Rockville MD,1:14:55,11:14,09:44,82,86,09:44
+983,984,123,Christina Caravoulias,51.0,Silver Spring M,D 1:14:52,11:14,09:47,59,76,09:47
+984,985,872,Stacey Cruse,35.0,Columbia MD,1:13:46,11:15,09:51,221,247,09:51
+985,986,2297,Tracey Rogers,38.0,Boyds MD,1:15:09,11:15,09:53,222,247,09:53
+986,987,2407,Luz Segura,34.0,Rockville MD,1:15:00,11:15,09:54,153,173,09:54
+987,988,2158,Claudia Pinto,37.0,Bethesda MD,1:13:19,11:15,09:54,223,247,09:54
+988,989,1467,Helen Jarecki,33.0,Rockville MD,1:15:12,11:16,09:55,154,173,09:55
+989,990,2837,Jennifer Yuen,23.0,Silver Spring M,D 1:13:42,11:16,09:57,83,86,09:57
+990,991,553,Jenn Barnes,31.0,Kensington MD,1:13:43,11:16,09:59,155,173,09:59
+991,992,1796,Patricia Maloney,53.0,Potomac MD,1:15:17,11:17,10:02,60,76,10:02
+992,993,2017,Tara Nesvaderani,22.0,Silver Spring M,D 1:13:35,11:17,10:05,84,86,10:05
+993,994,813,Sara Cohen,44.0,Gaithersburg MD,1:15:07,11:17,10:05,162,173,10:05
+994,995,1828,Victoria Martinez,32.0,Germantown MD,1:15:19,11:18,10:12,156,173,10:12
+995,996,2990,Linea Mackey,33.0,Arlington VA,1:15:49,11:21,10:31,157,173,10:31
+996,997,2963,Debi Fredrickson,50.0,Germantown MD,1:13:55,11:22,10:34,61,76,10:34
+997,998,146,Jeanette Edwards,48.0,Woodbridge VA,1:15:56,11:22,10:35,99,110,10:35
+998,999,2964,Talitha Appenzeller,46.0,Davenport IA,1:13:56,11:22,10:36,100,110,10:36
+999,1000,1611,Nicole Kopsidas,11.0,Rockville MD,1:12:10,11:22,10:36,14,15,10:36
+1000,1001,2682,Deborah Van Dover,53.0,Monrovia MD,1:15:58,11:23,10:42,62,76,10:42
+1001,1002,230,Jamie Wollard,67.0,Rockville MD,1:14:17,11:25,10:55,5,5,10:55
+1002,1003,2868,Ellen Maryman,56.0,New Market MD,1:14:37,11:25,10:57,22,28,10:57
+1003,1004,1953,Shirley Moore,63.0,Gaithersburg MD,1:16:13,11:26,11:02,17,19,11:02
+1004,1005,1840,Karen Mathias,46.0,Silver Spring M,D 1:16:16,11:27,11:04,101,110,11:04
+1005,1006,1972,Andrea Moss,37.0,Laurel MD,1:16:30,11:28,11:15,224,247,11:15
+1006,1007,2264,Gloria Reyes,44.0,Rockville MD,1:16:31,11:29,11:16,163,173,11:16
+1007,1008,1777,Caroline Mackey,25.0,Bethesda MD,1:16:35,11:29,11:18,130,142,11:18
+1008,1009,1778,Susan Mackey,-1.0,North Potomac M,D 1:16:36,11:29,11:18,15,15,11:18
+1009,1010,1388,Gail Hollenbeck,39.0,Centreville VA,1:14:38,11:29,11:18,225,247,11:18
+1010,1011,777,Renee Chen,36.0,Silver Spring M,D 1:16:32,11:29,11:19,226,247,11:19
+1011,1012,1678,Jeong Hee Lee,47.0,Columbia MD,1:14:44,11:32,11:37,102,110,11:37
+1012,1013,1622,Laura Kresse,43.0,Rockville MD,1:17:08,11:34,11:48,164,173,11:48
+1013,1014,2474,Heather Slater,36.0,Rockville MD,1:17:06,11:34,11:49,227,247,11:49
+1014,1015,2707,Kelly Wakefield,37.0,Purcellville VA,1:13:10,11:35,11:57,228,247,11:57
+1015,1016,701,Jan Bussler,50.0,Silver Spring M,D 1:17:26,11:37,12:10,63,76,12:10
+1016,1017,1649,Lysa Lantang,31.0,Germantown MD,1:15:38,11:38,12:13,158,173,12:13
+1017,1018,1299,Karla Gutierrez,35.0,Silver Spring M,D 1:15:57,11:39,12:18,229,247,12:18
+1018,1019,506,Anita Arya,26.0,Clarksburg MD,1:17:46,11:40,12:26,131,142,12:26
+1019,1020,1379,Elaine Hirsch,55.0,Rockville MD,1:13:41,11:40,12:28,23,28,12:28
+1020,1021,2888,Kristin Dow,34.0,Olney MD,1:17:59,11:43,12:43,159,173,12:43
+1021,1022,1062,Lesley Evans,28.0,Germantown MD,1:17:54,11:43,12:47,132,142,12:47
+1022,1023,1132,Mary Forte',57.0,Frederick MD,1:17:51,11:43,12:48,24,28,12:48
+1023,1024,1940,Angela Mitchell,25.0,Silver Spring M,D 1:17:59,11:44,12:53,133,142,12:53
+1024,1025,1962,Pearleana Morris,48.0,Gaithersburg MD,1:18:07,11:44,12:53,103,110,12:53
+1025,1026,2889,Carmen Benito Vessel,50.0,Kensington MD,1:14:08,11:44,12:54,64,76,12:54
+1026,1027,1169,Michele Fuller,33.0,Bethesda MD,1:16:17,11:46,13:03,160,173,13:03
+1027,1028,1298,Barbara Gusack,52.0,College Park MD,1:16:18,11:46,13:03,65,76,13:03
+1028,1029,1682,Catheryn Lee,62.0,Rockville MD,1:18:09,11:46,13:05,18,19,13:05
+1029,1030,1268,Erin Grace,39.0,Derwood MD,1:18:14,11:46,13:08,230,247,13:08
+1030,1031,2354,Jouhayna Saliba,38.0,Olney MD,1:18:12,11:47,13:09,231,247,13:09
+1031,1032,177,Lorraine Krawczyk,59.0,Dunkrirk MD,1:18:37,11:49,13:22,25,28,13:22
+1032,1033,1264,Elise Gotay,49.0,Rockville MD,1:18:32,11:50,13:29,104,110,13:29
+1033,1034,3042,Dianne Fischer,49.0,Rockville MD,1:18:47,11:50,13:30,105,110,13:30
+1034,1035,2713,Antoinett Waller,37.0,Rockville MD,1:18:45,11:50,13:31,232,247,13:31
+1035,1036,2923,Meredith Reed,26.0,Boyds MD,1:18:48,11:50,13:32,134,142,13:32
+1036,1037,1148,Susan Freeburn,54.0,Kensington MD,1:18:46,11:50,13:32,66,76,13:32
+1037,1038,2248,Rebecca Redman,37.0,Germantown MD,1:18:49,11:51,13:33,233,247,13:33
+1038,1039,1024,Suni Edson,35.0,Silver Spring M,D 1:18:35,11:51,13:34,234,247,13:34
+1039,1040,2541,Louise Stalter,59.0,Kensington MD,1:18:47,11:51,13:34,26,28,13:34
+1040,1041,1200,Jonella Gavin,29.0,Alexandria VA,1:16:58,11:51,13:37,135,142,13:37
+1041,1042,2454,Paula Simon,27.0,Silver Spring M,D 1:19:05,11:53,13:49,136,142,13:49
+1042,1043,839,Linda Consorti,42.0,Hyattsville MD,1:17:30,11:53,13:50,165,173,13:50
+1043,1044,1771,Cathlyn Lynch,34.0,Potomac MD,1:19:05,11:53,13:50,161,173,13:50
+1044,1045,2795,Patti Wise,50.0,Middletown MD,1:19:05,11:54,13:55,67,76,13:55
+1045,1046,1505,Katherine Kadin,31.0,North Bethesda,M 1:17:45,11:55,13:59,162,173,13:59
+1046,1047,2085,Jean Pagan-Bullock,57.0,Gaithersburg MD,1:19:23,11:57,14:15,27,28,14:15
+1047,1048,628,Jaya Bohlmann,42.0,Olney MD,1:19:23,11:58,14:17,166,173,14:17
+1048,1049,2310,Barbara Ross,52.0,Olney MD,1:19:45,12:01,14:40,68,76,14:40
+1049,1050,601,Amy Bielski,30.0,Mount Airy MD,1:19:52,12:02,14:44,163,173,14:44
+1050,1051,947,Aimee Diem,33.0,Derwood MD,1:20:16,12:05,15:03,164,173,15:03
+1051,1052,1006,Darci Duelge,37.0,Rockville MD,1:20:32,12:08,15:21,235,247,15:21
+1052,1053,2921,Jacquelin O'neil,74.0,Washington DC,1:19:29,12:10,15:33,3,3,15:33
+1053,1054,2345,Nicole Ryman,30.0,Rockville MD,1:20:50,12:11,15:37,165,173,15:37
+1054,1055,2715,Alyssa Walstein,29.0,Rockville MD,1:20:50,12:11,15:37,137,142,15:37
+1055,1056,1206,Willa Geisertdole,16.0,Chevy Chase MD,1:20:00,12:14,15:59,26,26,15:59
+1056,1057,2027,Stephanie Nichols,40.0,Rockville MD,1:21:15,12:16,16:11,167,173,16:11
+1057,1058,1437,Caroline Ige,44.0,Silver Spring M,D 1:20:17,12:20,16:38,168,173,16:38
+1058,1059,2700,Elizabeth Virgin,32.0,Washington DC,1:21:55,12:21,16:42,166,173,16:42
+1059,1060,459,Page Albro,51.0,Germantown MD,1:20:07,12:22,16:46,69,76,16:46
+1060,1061,2068,Kathleen Oreilly,53.0,Rockville MD,1:22:14,12:24,16:59,70,76,16:59
+1061,1062,1309,Jenny Haddon,52.0,Rockville MD,1:22:06,12:24,17:00,71,76,17:00
+1062,1063,2811,Susanne Woodlan,39.0,Silver Spring M,D 1:22:06,12:24,17:01,236,247,17:01
+1063,1064,1602,Theresa Knox,37.0,Damascus MD,1:22:23,12:26,17:12,237,247,17:12
+1064,1065,2258,Anne Reinhold,40.0,Damascus MD,1:22:23,12:26,17:13,169,173,17:13
+1065,1066,1868,Christell Mcdonald,52.0,Woodbine MD,1:21:22,12:27,17:16,72,76,17:16
+1066,1067,534,Cathy Backinger,51.0,Rockville MD,1:22:34,12:29,17:30,73,76,17:30
+1067,1068,854,Natalie Corbin,26.0,Germantown MD,1:22:34,12:29,17:30,138,142,17:30
+1068,1069,1213,Susan Gerecht,49.0,Kensington MD,1:22:40,12:30,17:35,106,110,17:35
+1069,1070,2392,Tracy Blo Schwartz,49.0,Potomac MD,1:22:53,12:31,17:44,107,110,17:44
+1070,1071,3235,Debbie Young,33.0,Washington DC,1:23:16,12:34,18:04,167,173,18:04
+1071,1072,908,Patricia Davis,52.0,Arlington VA,1:23:38,12:39,18:34,74,76,18:34
+1072,1073,2805,Tina Wong,28.0,Silver Spring M,D 1:22:53,12:41,18:49,139,142,18:49
+1073,1074,3371,Joyce Setsuda,42.0,.,1:24:27,12:45,19:13,170,173,19:13
+1074,1075,2082,Sarah Owens,25.0,Rockville MD,1:23:16,12:47,19:20,140,142,19:20
+1075,1076,1859,Lacey Mccann,26.0,Catonsville MD,1:25:26,12:54,20:08,141,142,20:08
+1076,1077,468,Lisa Amans,47.0,Bethesda MD,1:25:34,12:58,20:31,108,110,20:31
+1077,1078,2873,Karen Friedman,41.0,Potomac MD,1:26:03,13:03,21:01,171,173,21:01
+1078,1079,2058,Taiwo Oki,43.0,Silver Spring M,D 1:24:44,13:03,21:06,172,173,21:06
+1079,1080,2016,Hiva Nesvaderani,23.0,Silver Spring M,D 1:24:38,13:04,21:08,85,86,21:08
+1080,1081,2977,Joann Robertson,58.0,Bethesda MD,1:26:19,13:05,21:14,28,28,21:14
+1081,1082,2807,Eun Woo,39.0,Laurel MD,1:24:36,13:07,21:28,238,247,21:28
+1082,1083,2219,Althea Raiford,34.0,Silver Spring M,D 1:25:50,13:13,22:05,168,173,22:05
+1083,1084,2989,Veronica Thurmond,43.0,Silver Spring M,D 1:26:24,13:19,22:44,173,173,22:44
+1084,1085,1853,Emily Mcbride,26.0,Mclean VA,1:28:41,13:26,23:23,142,142,23:23
+1085,1086,1329,Linda Hanson,54.0,Gaithersburg MD,1:28:41,13:26,23:23,75,76,23:23
+1086,1087,1886,Sheila Mckinney,39.0,Washington DC,1:34:54,13:52,26:10,239,247,26:10
+1087,1088,2362,Janelle Sandford,48.0,Woodbine MD,1:31:25,13:53,26:11,109,110,26:11
+1088,1089,1912,Alyce Menton,37.0,Germantown MD,1:31:25,13:54,26:18,240,247,26:18
+1089,1090,1252,Melanie Gomez,21.0,Silver Spring M,D 1:27:38,13:56,26:30,86,86,26:30
+1090,1091,943,Leyla Diaz,36.0,Silver Spring M,D 1:37:00,14:45,31:39,241,247,31:39
+1091,1092,1451,Lisa Jackson,32.0,Rockville MD,1:33:04,14:48,31:56,169,173,31:56
+1092,1093,1855,Carla Mccaffrey,39.0,Rockville MD,1:37:45,14:54,32:30,242,247,32:30
+1093,1094,3034,Dayna Cavanaugh,37.0,Gaithersburg MD,1:37:45,14:54,32:30,243,247,32:30
+1094,1095,2427,Lesley Shear,53.0,Boyds MD,1:38:01,14:58,32:57,76,76,32:57
+1095,1096,3274,Cynthia Wong,36.0,Rockville MD,1:37:54,15:13,34:30,244,247,34:30
+1096,1097,3353,Karen Liu,33.0,Potomac MD,1:37:54,15:13,34:31,170,173,34:31
+1097,1098,2627,Marci Thomas,35.0,Silver Spring M,D 1:43:36,15:49,38:15,245,247,38:15
+1098,1099,93,Yvonne Savage,39.0,Silver Spring M,D 1:44:08,15:54,38:48,246,247,38:48
+1099,1100,2458,Rani Simon,61.0,Silver Spring M,D 1:44:10,15:57,39:03,19,19,39:03
+1100,1101,1847,Alicia Maxwell,35.0,Germantown MD,1:43:47,16:12,40:39,247,247,40:39
+1101,1102,2618,Regina Tenali,47.0,Gaithersburg MD,1:50:31,16:58,45:22,110,110,45:22
+1102,1103,986,Nirmala Donley,32.0,Ellicott City M,D 1:50:31,16:58,45:22,171,173,45:22
+1103,1104,1214,Heidi Gertner,34.0,Bethesda MD,1:46:49,17:12,46:49,172,173,46:49
+1104,1105,2852,Deborah Zerwitz,33.0,Washington DC,1:46:49,17:12,46:49,173,173,46:49
